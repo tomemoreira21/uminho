@@ -1,0 +1,21 @@
+Reverse Debugging 
+
+Para que serve o reverse debugging? 
+ - Voltar para estados anteriores do programa
+ - Investigar a origem de variáveis corrompidas
+ - Analisar instruções anteriores sem reiniciar o programa
+ 
+Comandos importantes 
+- record -> Inicia a gravação da execução do programa (após dar run). É obrigatório iniciar a gravação da execução pois só assim terá um histórico das instruções executadas e, portanto, não poderá "voltar no tempo". 
+
+- record stop -> é usado no fim para encerrar a gravação. Pára a gravação do histórico de execução.
+
+- reverse-continue -> Executa o programa "para trás" até um breakpoint ou final, permite voltar ao até ao início ou a um breakpoint anterior
+
+- reverse-step -> Retrocede uma instrução, entrando em funções
+
+- reverse-next -> Retrocede uma instrução, pulando funções
+
+- reverse-finish -> Volta até o fim da função atual serve para voltar para o local onde a função foi chamada
+
+

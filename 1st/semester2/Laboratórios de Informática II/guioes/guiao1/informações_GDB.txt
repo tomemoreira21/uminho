@@ -1,0 +1,80 @@
+GDB 
+
+Compilar o programa para o debugger
+gcc -ggdb <nome do ficheiro> 
+gdb a.out (correr o programa no debugger) 
+
+OU, (se quiser abrir o GDB e depois carregar o programa);
+gdb 
+file a.out (e depois dar run);
+
+Pequenos comandos do GDB 
+run; (vai correr o código dando a indicação se tudo correu normalmente "[Inferior 1 (process 12529) exited normally]")
+list; (vai devolver o código do programa)
+
+Criar pequenas coisas no gdb
+define <nome> (serve para criar pequenos programas no gdb e dá para corrê-los apenas chamando o seu nome) 
+
+>> define hello pt 
+>> echo ola\n
+>> end 
+
+Breakpoints 
+O breakpoint no GDB serve para interromper a execução de um programa em um ponto específico do código, permitindo que você inspecione variáveis, a pilha de chamadas e o fluxo de execução. Isso é útil para depuração e identificação de erros.
+
+Inserir breakpoints 
+b <nome da função ex: b main 
+Se quiser colocar numa linha em específico fazer -> b numero_da_linha ex: b 42 # Cria um breakpoint na linha 42
+info breakpoints (serve para ver todo o historial de breakpoints existentes);
+Se quiser posso inserir um breakpoint condicional -> b nome_da_funcao if variavel == 10
+
+Remover breakpoints 
+delete <número> ex: delete 1; Remove o breakpoint de número 1
+delete (vai remover todos os breakpoints do programa);
+clear (vai remover o breakpoint presente naquela linha);
+
+Desativar breakpoint 
+disable;
+
+Ativar um breakpoint inativo 
+enable;
+
+Rodar o programa até um breakpoint
+- Inspecionar variáveis (print var)
+- Continuar a execução (continue ou cont) -> serve para continuar a rodar o programa após parar num breakpoint
+- Executar linha a linha (next ou step)
+
+Comando display
+O que faz? Mostra a variável sempre que o programa para	
+Quando é últil? Para acompanhar o valor sem interromper a execução
+Exemplo
+b main          # Coloca um breakpoint na função main
+run            # Roda o programa
+display x      # Mostra o valor de x sempre que o programa parar
+
+Comando watch 
+O que faz? Para a execução quando a variável muda
+Quando é útil? Para encontrar onde a variável está sendo alterada
+Exemplo 
+b main      # Coloca um breakpoint na função main
+run        # Executa o programa
+watch x    # Para o programa sempre que x mudar
+
+Comando cond
+O comando cond no GDB é usado para adicionar ou modificar uma condição em um breakpoint. 
+Isso significa que o GDB só parará a execução se a condição for verdadeira.
+
+Dar valores a varíaveis 
+set <nome_da_variável> = <valor a atribuir>;
+
+cond NUMERO condição; 
+NUMERO → É o número do breakpoint (obtido com info breakpoints).
+condição → É uma expressão lógica que deve ser verdadeira para o breakpoint ser ativado.
+
+Exemplo: Parar apenas quando x == 10
+b minha_funcao      # Cria um breakpoint na função
+info breakpoints    # Mostra os números dos breakpoints
+cond 1 x == 10      # Só para no breakpoint 1 se x == 10
+Assim o GDB só interrompe a execução quando x for exatamente 10
+
+Nota: Para limpar memória basta dar kill e para saír dar quit

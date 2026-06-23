@@ -1,0 +1,55 @@
+Correr os Testes na Main 
+
+1ºParte (Inicializar o registro de testes)
+if (CUE_SUCCESS != CU_initialize_registry())
+    return CU_get_error();
+    
+Isso cria um registro global onde todas as suites e testes serão armazenados.
+Se falhar, CU_get_error() retorna o erro correspondente
+
+2ºParte (Definir o modo de exibição dos resultados)
+CU_basic_set_mode(modelo);
+As opções para o modelo são: 
+ - CU_BRM_SILENT → Modo silencioso, sem saída detalhada;
+ - CU_BRM_NORMAL → Saída básica, mostrando apenas os testes falhados;
+ - CU_BRM_VERBOSE → Exibe detalhes completos dos testes; 
+ 
+3ºParte (criar uma suite de testes) 
+CU_pSuite pSuite = NULL;
+pSuite = CU_add_suite("sum_test_suite", 0, 0);
+if (NULL == pSuite) {
+    CU_cleanup_registry();
+    return CU_get_error();
+  }
+  
+Criamos a suite que agrupa vários testes relacionados. Fazemos a verificação do NULL pois se a criação falhar (NULL), limpamos o registro e saímos.
+
+4ºParte (Adicionar testes à suite) 
+if (NULL == CU_add_test(pSuite, "testar_fact", testar_fact)) {
+    CU_cleanup_registry();
+    return CU_get_error();
+}
+
+Exemplo de lógica de inserção de testes. A condição do NULL serve para verificar se houve falha na adição do teste 
+
+5ºParte (Executar todos os testes e Finalizar e limpar os registros)
+CU_basic_run_tests();
+return CU_get_error();
+
+1ºlinha : Executa todos os testes cadastrados no registro;
+2ºlinha: Retorna o código de erro caso algo tenha falhado.
+
+MANEIRA MAIS SIMPLES
+int main () {
+  CU_initialize_registry();
+  CU_basic_set_mode(CU_BRM_VERBOSE); 
+
+  CU_pSuite pSuite = CU_add_suite("Teste Fibonacci", 0,0);
+  CU_add_test (pSuite,"teste_Fibonacci",testarFib);
+
+  CU_basic_run_tests();
+  CU_cleanup_registry();
+  
+  return 0;
+ 
+}

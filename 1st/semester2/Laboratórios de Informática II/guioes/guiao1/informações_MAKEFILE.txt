@@ -1,0 +1,21 @@
+MAKEFILE 
+
+Para projetos simples dá para fazer apenas
+>>> gcc file1.c file2.c file3.c 
+compilando os três arquivos e os vincula em um executável chamado a.out
+
+Criar o makeFile 
+fazer cd para a pasta 
+>> touch Makefile
+>> code MakeFile 
+
+Após isso fazer 
+>> make 
+>> gdb <$(TARGET)>
+
+A do lógica do MakeFile é a seguinte: 
+target-name : dependencies
+    action
+   
+    
+  

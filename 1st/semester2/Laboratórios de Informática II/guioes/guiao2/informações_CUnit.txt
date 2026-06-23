@@ -1,0 +1,47 @@
+CUnit (#include <CUnit/CUnit.h>)
+
+Diferentes tipos de testes
+
+Testes Gerais 
+- CU_ASSERT (expression): Verifica se expression é verdadeira;
+- CU_ASSERT_FATAL (expression): Parecida com o CU_ASSERT, porém pára a execução do teste imediatamente em caso de falha
+
+Testes booleanos 
+- CU_ASSERT_TRUE(value): Verifica se value é verdadeiro (!= 0);
+- CU_ASSERT_TRUE_FATAL(value): Igual à anterior, mas encerra o teste em caso de falha;
+- CU_ASSERT_FALSE(value): Verifica se value é falso (== 0);
+- CU_ASSERT_FALSE_FATAL(value): Igual à anterior, mas encerra o teste se falhar
+
+Testes de Igualdade
+- CU_ASSERT_EQUAL(actual, expected): Verifica se actual == expected;
+- CU_ASSERT_EQUAL_FATAL(actual, expected): Igual à anterior, mas encerra o teste em caso de falha;
+- CU_ASSERT_NOT_EQUAL(actual, expected): Verifica se actual != expected;
+- CU_ASSERT_NOT_EQUAL_FATAL(actual, expected): Igual à anterior, mas encerra o teste em caso de falha
+
+Testes para Strings 
+- CU_ASSERT_STRING_EQUAL(actual, expected): Verifica se duas strings são idênticas;
+- CU_ASSERT_STRING_EQUAL_FATAL(actual, expected): Igual à anterior, mas encerra o teste em caso de falha;
+- CU_ASSERT_STRING_NOT_EQUAL(actual, expected): Verifica se duas strings são diferentes;
+- CU_ASSERT_STRING_NOT_EQUAL_FATAL(actual, expected): Igual à anterior, mas encerra o teste em caso de falha;
+
+- CU_ASSERT_NSTRING_EQUAL(actual, expected, count): Compara apenas os primeiros count caracteres de duas strings;
+- CU_ASSERT_NSTRING_EQUAL_FATAL(actual, expected, count): Igual à anterior, mas encerra o teste se falhar
+- CU_ASSERT_NSTRING_NOT_EQUAL(actual, expected, count): Verifica se os primeiros count caracteres de duas strings são diferentes;
+- CU_ASSERT_NSTRING_NOT_EQUAL_FATAL(actual, expected, count): Igual à anterior, mas encerra o teste em caso de falha
+
+Testes para Números de Ponto Flutuante 
+- CU_ASSERT_DOUBLE_EQUAL(actual, expected, granularity): Verifica se actual e expected são iguais dentro de uma margem de erro (|actual - expected| <= |granularity|);
+- CU_ASSERT_DOUBLE_EQUAL_FATAL(actual, expected, granularity): Igual à anterior, mas encerra o teste em caso de falha;
+- CU_ASSERT_DOUBLE_NOT_EQUAL(actual, expected, granularity): Verifica se actual e expected são diferentes dentro de uma margem de erro (|actual - expected| > |granularity|);
+- CU_ASSERT_DOUBLE_NOT_EQUAL_FATAL(actual, expected, granularity): Igual à anterior, mas encerra o teste se falhar.
+
+Mensagens Personalizadas para os Testes
+- CU_PASS(message): Marca o teste como passado e exibe uma mensagem;
+- CU_FAIL(message): Marca o teste como falho com uma mensagem;
+- CU_FAIL_FATAL(message): Marca o teste como falho e encerra sua execução imediatamente
+
+
+
+
+
+

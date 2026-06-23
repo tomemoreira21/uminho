@@ -1,0 +1,4 @@
+2
+0 1 2 c
+0 1 1 a
+tabuleiro1.txt
