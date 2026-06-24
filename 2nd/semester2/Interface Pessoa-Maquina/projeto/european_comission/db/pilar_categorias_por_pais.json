@@ -1,0 +1,152 @@
+[
+  {
+    "pilarId": 1,
+    "pilarNome": "Transição Verde",
+    "marcos": 713,
+    "medidas": 1280,
+    "categorias": [
+      { "nome": "Mobilidade sustentável",             "mediaUE": 28 },
+      { "nome": "Eficiência energética",              "mediaUE": 22 },
+      { "nome": "Energias e redes renováveis",        "mediaUE": 30 },
+      { "nome": "I&DI em atividades verdes",          "mediaUE": 10 },
+      { "nome": "Adaptação às alterações climáticas", "mediaUE": 18 },
+      { "nome": "Transição para economia circular",   "mediaUE": 14 },
+      { "nome": "Habilidades e empregos verdes",      "mediaUE": 20 },
+      { "nome": "Prevenção e controlo da poluição",   "mediaUE": 8  }
+    ],
+    "valorPorPais": {
+      "PT": { "nome": "Portugal", "bandeira": "🇵🇹", "marcos": 58, "medidas": 142, "categorias": [ { "nome": "Mobilidade sustentável", "valor": 22 }, { "nome": "Eficiência energética", "valor": 31 }, { "nome": "Energias e redes renováveis", "valor": 35 }, { "nome": "I&DI em atividades verdes", "valor": 8 }, { "nome": "Adaptação às alterações climáticas", "valor": 14 }, { "nome": "Transição para economia circular", "valor": 12 }, { "nome": "Habilidades e empregos verdes", "valor": 18 }, { "nome": "Prevenção e controlo da poluição", "valor": 6 } ] },
+      "ES": { "nome": "Espanha", "bandeira": "🇪🇸", "marcos": 112, "medidas": 220, "categorias": [ { "nome": "Mobilidade sustentável", "valor": 32 }, { "nome": "Eficiência energética", "valor": 26 }, { "nome": "Energias e redes renováveis", "valor": 34 }, { "nome": "I&DI em atividades verdes", "valor": 11 }, { "nome": "Adaptação às alterações climáticas", "valor": 20 }, { "nome": "Transição para economia circular", "valor": 15 }, { "nome": "Habilidades e empregos verdes", "valor": 22 }, { "nome": "Prevenção e controlo da poluição", "valor": 9 } ] },
+      "IT": { "nome": "Itália", "bandeira": "🇮🇹", "marcos": 138, "medidas": 260, "categorias": [ { "nome": "Mobilidade sustentável", "valor": 30 }, { "nome": "Eficiência energética", "valor": 28 }, { "nome": "Energias e redes renováveis", "valor": 25 }, { "nome": "I&DI em atividades verdes", "valor": 9 }, { "nome": "Adaptação às alterações climáticas", "valor": 22 }, { "nome": "Transição para economia circular", "valor": 16 }, { "nome": "Habilidades e empregos verdes", "valor": 18 }, { "nome": "Prevenção e controlo da poluição", "valor": 10 } ] },
+      "FR": { "nome": "França", "bandeira": "🇫🇷", "marcos": 98, "medidas": 185, "categorias": [ { "nome": "Mobilidade sustentável", "valor": 25 }, { "nome": "Eficiência energética", "valor": 20 }, { "nome": "Energias e redes renováveis", "valor": 28 }, { "nome": "I&DI em atividades verdes", "valor": 13 }, { "nome": "Adaptação às alterações climáticas", "valor": 17 }, { "nome": "Transição para economia circular", "valor": 14 }, { "nome": "Habilidades e empregos verdes", "valor": 21 }, { "nome": "Prevenção e controlo da poluição", "valor": 7 } ] },
+      "DE": { "nome": "Alemanha", "bandeira": "🇩🇪", "marcos": 88, "medidas": 168, "categorias": [ { "nome": "Mobilidade sustentável", "valor": 26 }, { "nome": "Eficiência energética", "valor": 30 }, { "nome": "Energias e redes renováveis", "valor": 34 }, { "nome": "I&DI em atividades verdes", "valor": 14 }, { "nome": "Adaptação às alterações climáticas", "valor": 16 }, { "nome": "Transição para economia circular", "valor": 18 }, { "nome": "Habilidades e empregos verdes", "valor": 24 }, { "nome": "Prevenção e controlo da poluição", "valor": 10 } ] },
+      "PL": { "nome": "Polónia", "bandeira": "🇵🇱", "marcos": 72, "medidas": 140, "categorias": [ { "nome": "Mobilidade sustentável", "valor": 20 }, { "nome": "Eficiência energética", "valor": 24 }, { "nome": "Energias e redes renováveis", "valor": 27 }, { "nome": "I&DI em atividades verdes", "valor": 7 }, { "nome": "Adaptação às alterações climáticas", "valor": 19 }, { "nome": "Transição para economia circular", "valor": 12 }, { "nome": "Habilidades e empregos verdes", "valor": 16 }, { "nome": "Prevenção e controlo da poluição", "valor": 8 } ] },
+      "GR": { "nome": "Grécia", "bandeira": "🇬🇷", "marcos": 65, "medidas": 128, "categorias": [ { "nome": "Mobilidade sustentável", "valor": 18 }, { "nome": "Eficiência energética", "valor": 20 }, { "nome": "Energias e redes renováveis", "valor": 32 }, { "nome": "I&DI em atividades verdes", "valor": 8 }, { "nome": "Adaptação às alterações climáticas", "valor": 21 }, { "nome": "Transição para economia circular", "valor": 11 }, { "nome": "Habilidades e empregos verdes", "valor": 14 }, { "nome": "Prevenção e controlo da poluição", "valor": 9 } ] },
+      "RO": { "nome": "Roménia", "bandeira": "🇷🇴", "marcos": 48, "medidas": 98, "categorias": [ { "nome": "Mobilidade sustentável", "valor": 23 }, { "nome": "Eficiência energética", "valor": 19 }, { "nome": "Energias e redes renováveis", "valor": 26 }, { "nome": "I&DI em atividades verdes", "valor": 6 }, { "nome": "Adaptação às alterações climáticas", "valor": 20 }, { "nome": "Transição para economia circular", "valor": 10 }, { "nome": "Habilidades e empregos verdes", "valor": 15 }, { "nome": "Prevenção e controlo da poluição", "valor": 7 } ] },
+      "HR": { "nome": "Croácia", "bandeira": "🇭🇷", "marcos": 52, "medidas": 108, "categorias": [ { "nome": "Mobilidade sustentável", "valor": 21 }, { "nome": "Eficiência energética", "valor": 22 }, { "nome": "Energias e redes renováveis", "valor": 29 }, { "nome": "I&DI em atividades verdes", "valor": 7 }, { "nome": "Adaptação às alterações climáticas", "valor": 18 }, { "nome": "Transição para economia circular", "valor": 12 }, { "nome": "Habilidades e empregos verdes", "valor": 16 }, { "nome": "Prevenção e controlo da poluição", "valor": 8 } ] }
+    }
+  },
+  {
+    "pilarId": 2,
+    "pilarNome": "Transformação Digital",
+    "marcos": 524,
+    "medidas": 890,
+    "categorias": [
+      { "nome": "Infraestrutura de conectividade",    "mediaUE": 25 },
+      { "nome": "Competências digitais",              "mediaUE": 20 },
+      { "nome": "Digitalização de serviços públicos", "mediaUE": 30 },
+      { "nome": "Digitalização de empresas",          "mediaUE": 18 },
+      { "nome": "Cibersegurança",                     "mediaUE": 7  }
+    ],
+    "valorPorPais": {
+      "PT": { "nome": "Portugal", "bandeira": "🇵🇹", "marcos": 42, "medidas": 98, "categorias": [ { "nome": "Infraestrutura de conectividade", "valor": 22 }, { "nome": "Competências digitais", "valor": 24 }, { "nome": "Digitalização de serviços públicos", "valor": 28 }, { "nome": "Digitalização de empresas", "valor": 16 }, { "nome": "Cibersegurança", "valor": 6 } ] },
+      "ES": { "nome": "Espanha", "bandeira": "🇪🇸", "marcos": 88, "medidas": 162, "categorias": [ { "nome": "Infraestrutura de conectividade", "valor": 28 }, { "nome": "Competências digitais", "valor": 22 }, { "nome": "Digitalização de serviços públicos", "valor": 33 }, { "nome": "Digitalização de empresas", "valor": 20 }, { "nome": "Cibersegurança", "valor": 9 } ] },
+      "IT": { "nome": "Itália", "bandeira": "🇮🇹", "marcos": 105, "medidas": 194, "categorias": [ { "nome": "Infraestrutura de conectividade", "valor": 24 }, { "nome": "Competências digitais", "valor": 18 }, { "nome": "Digitalização de serviços públicos", "valor": 32 }, { "nome": "Digitalização de empresas", "valor": 22 }, { "nome": "Cibersegurança", "valor": 8 } ] },
+      "FR": { "nome": "França", "bandeira": "🇫🇷", "marcos": 76, "medidas": 140, "categorias": [ { "nome": "Infraestrutura de conectividade", "valor": 26 }, { "nome": "Competências digitais", "valor": 21 }, { "nome": "Digitalização de serviços públicos", "valor": 29 }, { "nome": "Digitalização de empresas", "valor": 17 }, { "nome": "Cibersegurança", "valor": 8 } ] },
+      "DE": { "nome": "Alemanha", "bandeira": "🇩🇪", "marcos": 68, "medidas": 122, "categorias": [ { "nome": "Infraestrutura de conectividade", "valor": 30 }, { "nome": "Competências digitais", "valor": 25 }, { "nome": "Digitalização de serviços públicos", "valor": 28 }, { "nome": "Digitalização de empresas", "valor": 24 }, { "nome": "Cibersegurança", "valor": 10 } ] },
+      "PL": { "nome": "Polónia", "bandeira": "🇵🇱", "marcos": 48, "medidas": 88, "categorias": [ { "nome": "Infraestrutura de conectividade", "valor": 23 }, { "nome": "Competências digitais", "valor": 17 }, { "nome": "Digitalização de serviços públicos", "valor": 26 }, { "nome": "Digitalização de empresas", "valor": 15 }, { "nome": "Cibersegurança", "valor": 5 } ] },
+      "GR": { "nome": "Grécia", "bandeira": "🇬🇷", "marcos": 44, "medidas": 82, "categorias": [ { "nome": "Infraestrutura de conectividade", "valor": 20 }, { "nome": "Competências digitais", "valor": 18 }, { "nome": "Digitalização de serviços públicos", "valor": 27 }, { "nome": "Digitalização de empresas", "valor": 14 }, { "nome": "Cibersegurança", "valor": 6 } ] },
+      "RO": { "nome": "Roménia", "bandeira": "🇷🇴", "marcos": 32, "medidas": 62, "categorias": [ { "nome": "Infraestrutura de conectividade", "valor": 19 }, { "nome": "Competências digitais", "valor": 15 }, { "nome": "Digitalização de serviços públicos", "valor": 22 }, { "nome": "Digitalização de empresas", "valor": 12 }, { "nome": "Cibersegurança", "valor": 4 } ] },
+      "HR": { "nome": "Croácia", "bandeira": "🇭🇷", "marcos": 38, "medidas": 72, "categorias": [ { "nome": "Infraestrutura de conectividade", "valor": 21 }, { "nome": "Competências digitais", "valor": 16 }, { "nome": "Digitalização de serviços públicos", "valor": 25 }, { "nome": "Digitalização de empresas", "valor": 14 }, { "nome": "Cibersegurança", "valor": 5 } ] }
+    }
+  },
+  {
+    "pilarId": 3,
+    "pilarNome": "Crescimento Inteligente, Sustentável e Inclusivo",
+    "marcos": 648,
+    "medidas": 1120,
+    "categorias": [
+      { "nome": "Investigação e inovação",    "mediaUE": 28 },
+      { "nome": "Competitividade das PME",    "mediaUE": 22 },
+      { "nome": "Criação de emprego",         "mediaUE": 20 },
+      { "nome": "Infraestruturas económicas", "mediaUE": 15 },
+      { "nome": "Desenvolvimento industrial", "mediaUE": 10 },
+      { "nome": "Turismo e cultura",          "mediaUE": 5  }
+    ],
+    "valorPorPais": {
+      "PT": { "nome": "Portugal", "bandeira": "🇵🇹", "marcos": 52, "medidas": 118, "categorias": [ { "nome": "Investigação e inovação", "valor": 24 }, { "nome": "Competitividade das PME", "valor": 28 }, { "nome": "Criação de emprego", "valor": 18 }, { "nome": "Infraestruturas económicas", "valor": 20 }, { "nome": "Desenvolvimento industrial", "valor": 8 }, { "nome": "Turismo e cultura", "valor": 9 } ] },
+      "ES": { "nome": "Espanha", "bandeira": "🇪🇸", "marcos": 102, "medidas": 198, "categorias": [ { "nome": "Investigação e inovação", "valor": 30 }, { "nome": "Competitividade das PME", "valor": 24 }, { "nome": "Criação de emprego", "valor": 22 }, { "nome": "Infraestruturas económicas", "valor": 14 }, { "nome": "Desenvolvimento industrial", "valor": 11 }, { "nome": "Turismo e cultura", "valor": 7 } ] },
+      "IT": { "nome": "Itália", "bandeira": "🇮🇹", "marcos": 124, "medidas": 238, "categorias": [ { "nome": "Investigação e inovação", "valor": 26 }, { "nome": "Competitividade das PME", "valor": 20 }, { "nome": "Criação de emprego", "valor": 21 }, { "nome": "Infraestruturas económicas", "valor": 18 }, { "nome": "Desenvolvimento industrial", "valor": 12 }, { "nome": "Turismo e cultura", "valor": 6 } ] },
+      "FR": { "nome": "França", "bandeira": "🇫🇷", "marcos": 88, "medidas": 165, "categorias": [ { "nome": "Investigação e inovação", "valor": 32 }, { "nome": "Competitividade das PME", "valor": 19 }, { "nome": "Criação de emprego", "valor": 18 }, { "nome": "Infraestruturas económicas", "valor": 13 }, { "nome": "Desenvolvimento industrial", "valor": 14 }, { "nome": "Turismo e cultura", "valor": 4 } ] },
+      "DE": { "nome": "Alemanha", "bandeira": "🇩🇪", "marcos": 78, "medidas": 148, "categorias": [ { "nome": "Investigação e inovação", "valor": 35 }, { "nome": "Competitividade das PME", "valor": 21 }, { "nome": "Criação de emprego", "valor": 16 }, { "nome": "Infraestruturas económicas", "valor": 12 }, { "nome": "Desenvolvimento industrial", "valor": 16 }, { "nome": "Turismo e cultura", "valor": 3 } ] },
+      "PL": { "nome": "Polónia", "bandeira": "🇵🇱", "marcos": 62, "medidas": 122, "categorias": [ { "nome": "Investigação e inovação", "valor": 20 }, { "nome": "Competitividade das PME", "valor": 25 }, { "nome": "Criação de emprego", "valor": 22 }, { "nome": "Infraestruturas económicas", "valor": 19 }, { "nome": "Desenvolvimento industrial", "valor": 9 }, { "nome": "Turismo e cultura", "valor": 4 } ] },
+      "GR": { "nome": "Grécia", "bandeira": "🇬🇷", "marcos": 58, "medidas": 112, "categorias": [ { "nome": "Investigação e inovação", "valor": 18 }, { "nome": "Competitividade das PME", "valor": 26 }, { "nome": "Criação de emprego", "valor": 24 }, { "nome": "Infraestruturas económicas", "valor": 22 }, { "nome": "Desenvolvimento industrial", "valor": 8 }, { "nome": "Turismo e cultura", "valor": 10 } ] },
+      "RO": { "nome": "Roménia", "bandeira": "🇷🇴", "marcos": 42, "medidas": 88, "categorias": [ { "nome": "Investigação e inovação", "valor": 14 }, { "nome": "Competitividade das PME", "valor": 22 }, { "nome": "Criação de emprego", "valor": 26 }, { "nome": "Infraestruturas económicas", "valor": 28 }, { "nome": "Desenvolvimento industrial", "valor": 7 }, { "nome": "Turismo e cultura", "valor": 5 } ] },
+      "HR": { "nome": "Croácia", "bandeira": "🇭🇷", "marcos": 46, "medidas": 96, "categorias": [ { "nome": "Investigação e inovação", "valor": 16 }, { "nome": "Competitividade das PME", "valor": 23 }, { "nome": "Criação de emprego", "valor": 21 }, { "nome": "Infraestruturas económicas", "valor": 24 }, { "nome": "Desenvolvimento industrial", "valor": 9 }, { "nome": "Turismo e cultura", "valor": 8 } ] }
+    }
+  },
+  {
+    "pilarId": 4,
+    "pilarNome": "Coesão Social e Territorial",
+    "marcos": 412,
+    "medidas": 720,
+    "categorias": [
+      { "nome": "Habitação acessível",            "mediaUE": 25 },
+      { "nome": "Inclusão social",                "mediaUE": 22 },
+      { "nome": "Desenvolvimento regional",       "mediaUE": 20 },
+      { "nome": "Igualdade de género",            "mediaUE": 15 },
+      { "nome": "Integração de migrantes",        "mediaUE": 10 },
+      { "nome": "Apoio a pessoas com deficiência","mediaUE": 8  }
+    ],
+    "valorPorPais": {
+      "PT": { "nome": "Portugal", "bandeira": "🇵🇹", "marcos": 38, "medidas": 82, "categorias": [ { "nome": "Habitação acessível", "valor": 28 }, { "nome": "Inclusão social", "valor": 20 }, { "nome": "Desenvolvimento regional", "valor": 22 }, { "nome": "Igualdade de género", "valor": 14 }, { "nome": "Integração de migrantes", "valor": 12 }, { "nome": "Apoio a pessoas com deficiência", "valor": 7 } ] },
+      "ES": { "nome": "Espanha", "bandeira": "🇪🇸", "marcos": 76, "medidas": 142, "categorias": [ { "nome": "Habitação acessível", "valor": 26 }, { "nome": "Inclusão social", "valor": 24 }, { "nome": "Desenvolvimento regional", "valor": 18 }, { "nome": "Igualdade de género", "valor": 18 }, { "nome": "Integração de migrantes", "valor": 13 }, { "nome": "Apoio a pessoas com deficiência", "valor": 9 } ] },
+      "IT": { "nome": "Itália", "bandeira": "🇮🇹", "marcos": 92, "medidas": 168, "categorias": [ { "nome": "Habitação acessível", "valor": 22 }, { "nome": "Inclusão social", "valor": 26 }, { "nome": "Desenvolvimento regional", "valor": 28 }, { "nome": "Igualdade de género", "valor": 12 }, { "nome": "Integração de migrantes", "valor": 9 }, { "nome": "Apoio a pessoas com deficiência", "valor": 7 } ] },
+      "FR": { "nome": "França", "bandeira": "🇫🇷", "marcos": 62, "medidas": 118, "categorias": [ { "nome": "Habitação acessível", "valor": 24 }, { "nome": "Inclusão social", "valor": 22 }, { "nome": "Desenvolvimento regional", "valor": 16 }, { "nome": "Igualdade de género", "valor": 18 }, { "nome": "Integração de migrantes", "valor": 14 }, { "nome": "Apoio a pessoas com deficiência", "valor": 10 } ] },
+      "DE": { "nome": "Alemanha", "bandeira": "🇩🇪", "marcos": 54, "medidas": 98, "categorias": [ { "nome": "Habitação acessível", "valor": 20 }, { "nome": "Inclusão social", "valor": 18 }, { "nome": "Desenvolvimento regional", "valor": 22 }, { "nome": "Igualdade de género", "valor": 16 }, { "nome": "Integração de migrantes", "valor": 16 }, { "nome": "Apoio a pessoas com deficiência", "valor": 8 } ] },
+      "PL": { "nome": "Polónia", "bandeira": "🇵🇱", "marcos": 44, "medidas": 82, "categorias": [ { "nome": "Habitação acessível", "valor": 18 }, { "nome": "Inclusão social", "valor": 20 }, { "nome": "Desenvolvimento regional", "valor": 28 }, { "nome": "Igualdade de género", "valor": 10 }, { "nome": "Integração de migrantes", "valor": 6 }, { "nome": "Apoio a pessoas com deficiência", "valor": 7 } ] },
+      "GR": { "nome": "Grécia", "bandeira": "🇬🇷", "marcos": 40, "medidas": 76, "categorias": [ { "nome": "Habitação acessível", "valor": 30 }, { "nome": "Inclusão social", "valor": 24 }, { "nome": "Desenvolvimento regional", "valor": 26 }, { "nome": "Igualdade de género", "valor": 10 }, { "nome": "Integração de migrantes", "valor": 8 }, { "nome": "Apoio a pessoas com deficiência", "valor": 6 } ] },
+      "RO": { "nome": "Roménia", "bandeira": "🇷🇴", "marcos": 32, "medidas": 62, "categorias": [ { "nome": "Habitação acessível", "valor": 20 }, { "nome": "Inclusão social", "valor": 18 }, { "nome": "Desenvolvimento regional", "valor": 30 }, { "nome": "Igualdade de género", "valor": 8 }, { "nome": "Integração de migrantes", "valor": 5 }, { "nome": "Apoio a pessoas com deficiência", "valor": 6 } ] },
+      "HR": { "nome": "Croácia", "bandeira": "🇭🇷", "marcos": 36, "medidas": 68, "categorias": [ { "nome": "Habitação acessível", "valor": 22 }, { "nome": "Inclusão social", "valor": 20 }, { "nome": "Desenvolvimento regional", "valor": 25 }, { "nome": "Igualdade de género", "valor": 12 }, { "nome": "Integração de migrantes", "valor": 7 }, { "nome": "Apoio a pessoas com deficiência", "valor": 8 } ] }
+    }
+  },
+  {
+    "pilarId": 5,
+    "pilarNome": "Saúde e Resiliência Económica, Social e Institucional",
+    "marcos": 318,
+    "medidas": 560,
+    "categorias": [
+      { "nome": "Capacidade hospitalar",         "mediaUE": 30 },
+      { "nome": "Saúde digital",                 "mediaUE": 18 },
+      { "nome": "Prevenção e promoção da saúde", "mediaUE": 20 },
+      { "nome": "Resiliência institucional",      "mediaUE": 15 },
+      { "nome": "Investigação em saúde",          "mediaUE": 10 },
+      { "nome": "Saúde mental",                   "mediaUE": 7  }
+    ],
+    "valorPorPais": {
+      "PT": { "nome": "Portugal", "bandeira": "🇵🇹", "marcos": 28, "medidas": 64, "categorias": [ { "nome": "Capacidade hospitalar", "valor": 28 }, { "nome": "Saúde digital", "valor": 20 }, { "nome": "Prevenção e promoção da saúde", "valor": 22 }, { "nome": "Resiliência institucional", "valor": 14 }, { "nome": "Investigação em saúde", "valor": 8 }, { "nome": "Saúde mental", "valor": 6 } ] },
+      "ES": { "nome": "Espanha", "bandeira": "🇪🇸", "marcos": 56, "medidas": 108, "categorias": [ { "nome": "Capacidade hospitalar", "valor": 32 }, { "nome": "Saúde digital", "valor": 22 }, { "nome": "Prevenção e promoção da saúde", "valor": 18 }, { "nome": "Resiliência institucional", "valor": 16 }, { "nome": "Investigação em saúde", "valor": 12 }, { "nome": "Saúde mental", "valor": 8 } ] },
+      "IT": { "nome": "Itália", "bandeira": "🇮🇹", "marcos": 68, "medidas": 128, "categorias": [ { "nome": "Capacidade hospitalar", "valor": 34 }, { "nome": "Saúde digital", "valor": 16 }, { "nome": "Prevenção e promoção da saúde", "valor": 20 }, { "nome": "Resiliência institucional", "valor": 12 }, { "nome": "Investigação em saúde", "valor": 10 }, { "nome": "Saúde mental", "valor": 6 } ] },
+      "FR": { "nome": "França", "bandeira": "🇫🇷", "marcos": 48, "medidas": 92, "categorias": [ { "nome": "Capacidade hospitalar", "valor": 28 }, { "nome": "Saúde digital", "valor": 20 }, { "nome": "Prevenção e promoção da saúde", "valor": 22 }, { "nome": "Resiliência institucional", "valor": 18 }, { "nome": "Investigação em saúde", "valor": 14 }, { "nome": "Saúde mental", "valor": 9 } ] },
+      "DE": { "nome": "Alemanha", "bandeira": "🇩🇪", "marcos": 42, "medidas": 82, "categorias": [ { "nome": "Capacidade hospitalar", "valor": 26 }, { "nome": "Saúde digital", "valor": 24 }, { "nome": "Prevenção e promoção da saúde", "valor": 18 }, { "nome": "Resiliência institucional", "valor": 20 }, { "nome": "Investigação em saúde", "valor": 16 }, { "nome": "Saúde mental", "valor": 10 } ] },
+      "PL": { "nome": "Polónia", "bandeira": "🇵🇱", "marcos": 32, "medidas": 62, "categorias": [ { "nome": "Capacidade hospitalar", "valor": 34 }, { "nome": "Saúde digital", "valor": 14 }, { "nome": "Prevenção e promoção da saúde", "valor": 18 }, { "nome": "Resiliência institucional", "valor": 12 }, { "nome": "Investigação em saúde", "valor": 8 }, { "nome": "Saúde mental", "valor": 5 } ] },
+      "GR": { "nome": "Grécia", "bandeira": "🇬🇷", "marcos": 30, "medidas": 58, "categorias": [ { "nome": "Capacidade hospitalar", "valor": 36 }, { "nome": "Saúde digital", "valor": 16 }, { "nome": "Prevenção e promoção da saúde", "valor": 20 }, { "nome": "Resiliência institucional", "valor": 14 }, { "nome": "Investigação em saúde", "valor": 8 }, { "nome": "Saúde mental", "valor": 5 } ] },
+      "RO": { "nome": "Roménia", "bandeira": "🇷🇴", "marcos": 24, "medidas": 46, "categorias": [ { "nome": "Capacidade hospitalar", "valor": 38 }, { "nome": "Saúde digital", "valor": 12 }, { "nome": "Prevenção e promoção da saúde", "valor": 16 }, { "nome": "Resiliência institucional", "valor": 14 }, { "nome": "Investigação em saúde", "valor": 6 }, { "nome": "Saúde mental", "valor": 4 } ] },
+      "HR": { "nome": "Croácia", "bandeira": "🇭🇷", "marcos": 26, "medidas": 52, "categorias": [ { "nome": "Capacidade hospitalar", "valor": 32 }, { "nome": "Saúde digital", "valor": 15 }, { "nome": "Prevenção e promoção da saúde", "valor": 20 }, { "nome": "Resiliência institucional", "valor": 16 }, { "nome": "Investigação em saúde", "valor": 8 }, { "nome": "Saúde mental", "valor": 6 } ] }
+    }
+  },
+  {
+    "pilarId": 6,
+    "pilarNome": "Políticas para a Próxima Geração",
+    "marcos": 285,
+    "medidas": 490,
+    "categorias": [
+      { "nome": "Educação de infância",    "mediaUE": 25 },
+      { "nome": "Ensino superior",         "mediaUE": 20 },
+      { "nome": "Formação profissional",   "mediaUE": 22 },
+      { "nome": "Apoio a jovens em risco", "mediaUE": 18 },
+      { "nome": "Emprego jovem",           "mediaUE": 15 }
+    ],
+    "valorPorPais": {
+      "PT": { "nome": "Portugal", "bandeira": "🇵🇹", "marcos": 24, "medidas": 52, "categorias": [ { "nome": "Educação de infância", "valor": 22 }, { "nome": "Ensino superior", "valor": 18 }, { "nome": "Formação profissional", "valor": 26 }, { "nome": "Apoio a jovens em risco", "valor": 16 }, { "nome": "Emprego jovem", "valor": 20 } ] },
+      "ES": { "nome": "Espanha", "bandeira": "🇪🇸", "marcos": 48, "medidas": 92, "categorias": [ { "nome": "Educação de infância", "valor": 28 }, { "nome": "Ensino superior", "valor": 22 }, { "nome": "Formação profissional", "valor": 24 }, { "nome": "Apoio a jovens em risco", "valor": 20 }, { "nome": "Emprego jovem", "valor": 18 } ] },
+      "IT": { "nome": "Itália", "bandeira": "🇮🇹", "marcos": 58, "medidas": 108, "categorias": [ { "nome": "Educação de infância", "valor": 30 }, { "nome": "Ensino superior", "valor": 18 }, { "nome": "Formação profissional", "valor": 20 }, { "nome": "Apoio a jovens em risco", "valor": 22 }, { "nome": "Emprego jovem", "valor": 14 } ] },
+      "FR": { "nome": "França", "bandeira": "🇫🇷", "marcos": 40, "medidas": 78, "categorias": [ { "nome": "Educação de infância", "valor": 26 }, { "nome": "Ensino superior", "valor": 24 }, { "nome": "Formação profissional", "valor": 22 }, { "nome": "Apoio a jovens em risco", "valor": 16 }, { "nome": "Emprego jovem", "valor": 16 } ] },
+      "DE": { "nome": "Alemanha", "bandeira": "🇩🇪", "marcos": 36, "medidas": 68, "categorias": [ { "nome": "Educação de infância", "valor": 22 }, { "nome": "Ensino superior", "valor": 26 }, { "nome": "Formação profissional", "valor": 28 }, { "nome": "Apoio a jovens em risco", "valor": 14 }, { "nome": "Emprego jovem", "valor": 14 } ] },
+      "PL": { "nome": "Polónia", "bandeira": "🇵🇱", "marcos": 28, "medidas": 56, "categorias": [ { "nome": "Educação de infância", "valor": 28 }, { "nome": "Ensino superior", "valor": 18 }, { "nome": "Formação profissional", "valor": 20 }, { "nome": "Apoio a jovens em risco", "valor": 16 }, { "nome": "Emprego jovem", "valor": 12 } ] },
+      "GR": { "nome": "Grécia", "bandeira": "🇬🇷", "marcos": 26, "medidas": 50, "categorias": [ { "nome": "Educação de infância", "valor": 24 }, { "nome": "Ensino superior", "valor": 20 }, { "nome": "Formação profissional", "valor": 18 }, { "nome": "Apoio a jovens em risco", "valor": 22 }, { "nome": "Emprego jovem", "valor": 20 } ] },
+      "RO": { "nome": "Roménia", "bandeira": "🇷🇴", "marcos": 20, "medidas": 40, "categorias": [ { "nome": "Educação de infância", "valor": 26 }, { "nome": "Ensino superior", "valor": 16 }, { "nome": "Formação profissional", "valor": 18 }, { "nome": "Apoio a jovens em risco", "valor": 20 }, { "nome": "Emprego jovem", "valor": 14 } ] },
+      "HR": { "nome": "Croácia", "bandeira": "🇭🇷", "marcos": 22, "medidas": 44, "categorias": [ { "nome": "Educação de infância", "valor": 24 }, { "nome": "Ensino superior", "valor": 18 }, { "nome": "Formação profissional", "valor": 22 }, { "nome": "Apoio a jovens em risco", "valor": 18 }, { "nome": "Emprego jovem", "valor": 16 } ] }
+    }
+  }
+]

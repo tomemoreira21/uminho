@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+
+:root {
+  --cor-azul-escuro: #001276;
+  --cor-azul-primario: #003399;
+
+  --cor-verde-claro: #74D5BE;
+  --cor-azul-claro: #0066CC;
+  --cor-roxo-claro: #9333EA;
+  --cor-vermelho-claro: #E12F2F;
+  --cor-azul-ciano: #5CD0F1;
+  --cor-laranja-claro: #E05A00;
+
+  --cor-verde-escuro: #027244;
+  --cor-roxo-escuro: #9333EA;
+  --cor-azul-ue: #0066CC;
+  --cor-vermelho-escuro: #E12F2F;
+  --cor-azul-ciano-claro: #5CD0F1;
+  --cor-laranja-escuro: #E05A00;
+
+  --cor-azul-selecao: #D2E1F9;
+  --cor-sidebar-bg: #F1F1FD;
+  --cor-border: #CFDAEF;
+  --cor-amarelo: #FFCC00;
+  --cor-texto: #5A6A8A;
+  --font-principal: 'Space Mono', monospace;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-principal);
+  color: var(--cor-texto);
+  width: 100%;
+  height: 100%;
+}
+
+html {
+  width: 100%;
+  height: 100%;
+}
+
+#app {
+  width: 100%;
+  height: 100vh;
+}
+
+/* Toast PrimeVue — override de cores */
+.p-toast .p-toast-message.p-toast-message-success {
+  background-color: #f0fdf4 !important;
+  border: 1px solid #86efac !important;
+  color: #166534 !important;
+}
+
+.p-toast .p-toast-message.p-toast-message-success .p-toast-summary {
+  color: #166534 !important;
+  font-weight: 700;
+}
+
+.p-toast .p-toast-message.p-toast-message-success .p-toast-detail {
+  color: #15803d !important;
+}
+
+.p-toast .p-toast-message.p-toast-message-error {
+  background-color: #fef2f2 !important;
+  border: 1px solid #fca5a5 !important;
+  color: #991b1b !important;
+}
+
+.p-toast .p-toast-message.p-toast-message-error .p-toast-summary {
+  color: #991b1b !important;
+  font-weight: 700;
+}
+
+.p-toast .p-toast-message.p-toast-message-error .p-toast-detail {
+  color: #b91c1c !important;
+}
+
+.p-toast .p-toast-message.p-toast-message-warn {
+  background-color: #fffbeb !important;
+  border: 1px solid #fcd34d !important;
+  color: #92400e !important;
+}
+
+.p-toast .p-toast-message.p-toast-message-warn .p-toast-summary {
+  color: #92400e !important;
+  font-weight: 700;
+}
+
+.p-toast .p-toast-message.p-toast-message-warn .p-toast-detail {
+  color: #b45309 !important;
+}
+
+/* Ícone e botão de fechar */
+.p-toast .p-toast-message .p-toast-icon-close {
+  color: inherit !important;
+  opacity: 0.6;
+}
+
+.p-toast .p-toast-message .p-toast-icon-close:hover {
+  opacity: 1;
+}

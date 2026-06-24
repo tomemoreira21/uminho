@@ -1,0 +1,246 @@
+[
+  {
+    "id": "portugal",
+    "nome": "Portugal",
+    "bandeira": "🇵🇹",
+    "codigoBandeira": "pt",
+    "codigoISO": "PT",
+    "subsidiosMilhoes": 16325,
+    "emprestimosMilhoes": 5580,
+    "pibPct": 8.18,
+    "populacaoMilhoes": 10.3,
+    "impacto": [
+      { "icone": "🏫", "valor": "250",     "label": "Escolas renovadas em zonas rurais" },
+      { "icone": "👩‍🏫", "valor": "50 000", "label": "Professores formados em digital" },
+      { "icone": "🎒", "valor": "645 000", "label": "Alunos com equipamento digital" },
+      { "icone": "🏠", "valor": "26 000",  "label": "Habitações com eficiência energética" },
+      { "icone": "🚇", "valor": "3",       "label": "Linhas de metro ampliadas (Lisboa)" },
+      { "icone": "🌳", "valor": "100 000", "label": "Hectares de floresta recuperados" }
+    ],
+    "alerta": {
+      "titulo": "Atrasos detetados em \"Escola Digital\"",
+      "descricao": "Portugal tem atualmente 24% de progresso no pilar \"Políticas para a Próxima Geração\", abaixo da média europeia de 31%.",
+      "comparacoes": [
+        "Itália também regista atrasos similares (21%)",
+        "Polónia e Roménia têm os maiores atrasos (18%)",
+        "Espanha está à frente com 42% de progresso"
+      ]
+    }
+  },
+  {
+    "id": "espanha",
+    "nome": "Espanha",
+    "bandeira": "🇪🇸",
+    "codigoBandeira": "es",
+    "codigoISO": "ES",
+    "subsidiosMilhoes": 69528,
+    "emprestimosMilhoes": 83000,
+    "pibPct": 14.2,
+    "populacaoMilhoes": 47.4,
+    "impacto": [
+      { "icone": "🏗️", "valor": "1 200",   "label": "Projetos de infraestrutura verde" },
+      { "icone": "💻", "valor": "800 000", "label": "Trabalhadores requalificados" },
+      { "icone": "🏥", "valor": "320",     "label": "Centros de saúde modernizados" },
+      { "icone": "⚡", "valor": "45 000",  "label": "MW de energia renovável instalada" },
+      { "icone": "🎓", "valor": "500 000", "label": "Bolsas de estudo atribuídas" },
+      { "icone": "🏠", "valor": "180 000", "label": "Habitações renovadas" }
+    ],
+    "alerta": {
+      "titulo": "Progresso acima da média em Transformação Digital",
+      "descricao": "Espanha apresenta 42% de progresso no pilar \"Políticas para a Próxima Geração\", acima da média europeia de 31%.",
+      "comparacoes": [
+        "Melhor desempenho que Itália (21%) e Portugal (24%)",
+        "Referência europeia em digitalização do setor público",
+        "Meta: atingir 60% até final de 2026"
+      ]
+    }
+  },
+  {
+    "id": "italia",
+    "nome": "Itália",
+    "bandeira": "🇮🇹",
+    "codigoBandeira": "it",
+    "codigoISO": "IT",
+    "subsidiosMilhoes": 68880,
+    "emprestimosMilhoes": 122600,
+    "pibPct": 11.4,
+    "populacaoMilhoes": 59.6,
+    "impacto": [
+      { "icone": "🛤️", "valor": "2 400",   "label": "Km de ferrovia modernizada" },
+      { "icone": "🏫", "valor": "12 000",  "label": "Escolas com banda larga" },
+      { "icone": "💊", "valor": "95 000",  "label": "Profissionais de saúde apoiados" },
+      { "icone": "🌿", "valor": "60 000",  "label": "Hectares de reflorestação" },
+      { "icone": "🏭", "valor": "35 000",  "label": "PME digitalizadas" },
+      { "icone": "👶", "valor": "200 000", "label": "Crianças com apoio social" }
+    ],
+    "alerta": {
+      "titulo": "Atrasos detetados na execução do plano",
+      "descricao": "Itália regista 21% de progresso no pilar \"Políticas para a Próxima Geração\", abaixo da média europeia de 31%.",
+      "comparacoes": [
+        "Portugal regista progresso semelhante (24%)",
+        "Polónia e Roménia têm os maiores atrasos (18%)",
+        "Espanha lidera com 42% de progresso"
+      ]
+    }
+  },
+  {
+    "id": "franca",
+    "nome": "França",
+    "bandeira": "🇫🇷",
+    "codigoBandeira": "fr",
+    "codigoISO": "FR",
+    "subsidiosMilhoes": 39400,
+    "emprestimosMilhoes": 12000,
+    "pibPct": 5.2,
+    "populacaoMilhoes": 67.4,
+    "impacto": [
+      { "icone": "🚄", "valor": "1 800",   "label": "Km de linha ferroviária renovada" },
+      { "icone": "🌱", "valor": "250 000", "label": "Empresas com apoio verde" },
+      { "icone": "🏥", "valor": "180",     "label": "Hospitais modernizados" },
+      { "icone": "🎓", "valor": "400 000", "label": "Jovens em formação profissional" },
+      { "icone": "🔋", "valor": "12 000",  "label": "MW de hidrogénio verde instalados" },
+      { "icone": "🏘️", "valor": "90 000",  "label": "Habitações sociais reabilitadas" }
+    ],
+    "alerta": {
+      "titulo": "Dificuldades na execução do pilar verde",
+      "descricao": "França apresenta 28% de progresso no pilar \"Transição Verde\", ligeiramente abaixo da meta semestral de 35%.",
+      "comparacoes": [
+        "Alemanha lidera o pilar verde com 48%",
+        "Portugal e Espanha já superaram a meta semestral",
+        "Previsão de recuperação no segundo semestre de 2026"
+      ]
+    }
+  },
+  {
+    "id": "alemanha",
+    "nome": "Alemanha",
+    "bandeira": "🇩🇪",
+    "codigoBandeira": "de",
+    "codigoISO": "DE",
+    "subsidiosMilhoes": 25600,
+    "emprestimosMilhoes": 10100,
+    "pibPct": 2.3,
+    "populacaoMilhoes": 83.2,
+    "impacto": [
+      { "icone": "⚡", "valor": "75 000",  "label": "MW de energia renovável" },
+      { "icone": "🏭", "valor": "48 000",  "label": "Empresas industriais digitalizadas" },
+      { "icone": "🚂", "valor": "3 200",   "label": "Km de ferrovia eletrificada" },
+      { "icone": "🔬", "valor": "22 000",  "label": "Investigadores apoiados" },
+      { "icone": "🌳", "valor": "180 000", "label": "Hectares florestais recuperados" },
+      { "icone": "🏠", "valor": "310 000", "label": "Edifícios com retrofit energético" }
+    ],
+    "alerta": null
+  },
+  {
+    "id": "polonia",
+    "nome": "Polónia",
+    "bandeira": "🇵🇱",
+    "codigoBandeira": "pl",
+    "codigoISO": "PL",
+    "subsidiosMilhoes": 23900,
+    "emprestimosMilhoes": 11500,
+    "pibPct": 5.8,
+    "populacaoMilhoes": 37.9,
+    "impacto": [
+      { "icone": "⚡", "valor": "18 000",  "label": "MW de energia renovável instalados" },
+      { "icone": "🏫", "valor": "4 200",   "label": "Escolas digitalizadas" },
+      { "icone": "🌊", "valor": "1 200",   "label": "Km de costas/rios protegidos" },
+      { "icone": "💼", "valor": "280 000", "label": "Postos de trabalho criados" },
+      { "icone": "🚌", "valor": "850",     "label": "Autocarros elétricos adquiridos" },
+      { "icone": "👶", "valor": "120 000", "label": "Crianças com apoio na primeira infância" }
+    ],
+    "alerta": {
+      "titulo": "Atrasos na execução do pilar \"Próxima Geração\"",
+      "descricao": "Polónia regista apenas 18% de progresso no pilar \"Políticas para a Próxima Geração\", o valor mais baixo da UE a par da Roménia.",
+      "comparacoes": [
+        "Média europeia é de 31%",
+        "Espanha lidera com 42% de progresso",
+        "Revisão do plano nacional prevista para junho de 2026"
+      ]
+    }
+  },
+  {
+    "id": "grecia",
+    "nome": "Grécia",
+    "bandeira": "🇬🇷",
+    "codigoBandeira": "gr",
+    "codigoISO": "GR",
+    "subsidiosMilhoes": 17800,
+    "emprestimosMilhoes": 12500,
+    "pibPct": 16.7,
+    "populacaoMilhoes": 10.7,
+    "impacto": [
+      { "icone": "☀️", "valor": "9 500",   "label": "MW de energia solar instalados" },
+      { "icone": "🏖️", "valor": "320",     "label": "Zonas costeiras protegidas" },
+      { "icone": "🏥", "valor": "65",      "label": "Unidades de saúde remodeladas" },
+      { "icone": "💻", "valor": "180 000", "label": "Cidadãos com literacia digital" },
+      { "icone": "🏛️", "valor": "1 200",   "label": "Edifícios públicos reabilitados" },
+      { "icone": "🌊", "valor": "450 000", "label": "Pessoas protegidas de inundações" }
+    ],
+    "alerta": {
+      "titulo": "Elevada dependência do PRR face ao PIB",
+      "descricao": "A Grécia tem uma das maiores alocações PRR em percentagem do PIB (16.7%), o que representa tanto uma oportunidade como um risco de absorção.",
+      "comparacoes": [
+        "Croácia e Bulgária têm rácios semelhantes acima de 10%",
+        "Alemanha tem o rácio mais baixo da UE (2.3%)",
+        "Capacidade de absorção está a ser monitorizada pela Comissão Europeia"
+      ]
+    }
+  },
+  {
+    "id": "romania",
+    "nome": "Roménia",
+    "bandeira": "🇷🇴",
+    "codigoBandeira": "ro",
+    "codigoISO": "RO",
+    "subsidiosMilhoes": 28500,
+    "emprestimosMilhoes": 14800,
+    "pibPct": 14.1,
+    "populacaoMilhoes": 19.2,
+    "impacto": [
+      { "icone": "🛤️", "valor": "950",     "label": "Km de autoestrada construídos" },
+      { "icone": "💧", "valor": "3 200",   "label": "Localidades com acesso a água potável" },
+      { "icone": "🏥", "valor": "120",     "label": "Centros de saúde primária construídos" },
+      { "icone": "🌱", "valor": "80 000",  "label": "Hectares de terrenos reabilitados" },
+      { "icone": "🏫", "valor": "2 800",   "label": "Salas de aula renovadas" },
+      { "icone": "👷", "valor": "150 000", "label": "Trabalhadores em formação" }
+    ],
+    "alerta": {
+      "titulo": "Atrasos generalizados na execução do PRR",
+      "descricao": "A Roménia regista 18% de progresso geral no PRR, o valor mais baixo da UE juntamente com a Polónia. A Comissão Europeia emitiu recomendações específicas.",
+      "comparacoes": [
+        "Média europeia de progresso geral é de 45%",
+        "Portugal (71%) e Espanha (67%) estão entre os líderes",
+        "Prazo final de utilização dos fundos é 2026"
+      ]
+    }
+  },
+  {
+    "id": "croacia",
+    "nome": "Croácia",
+    "bandeira": "🇭🇷",
+    "codigoBandeira": "hr",
+    "codigoISO": "HR",
+    "subsidiosMilhoes": 6300,
+    "emprestimosMilhoes": 3600,
+    "pibPct": 17.9,
+    "populacaoMilhoes": 3.9,
+    "impacto": [
+      { "icone": "🏖️", "valor": "280",     "label": "Km de costa protegidos" },
+      { "icone": "🏗️", "valor": "85",      "label": "Edifícios públicos antissísmicos" },
+      { "icone": "⚡", "valor": "2 800",   "label": "MW de renováveis instalados" },
+      { "icone": "🏥", "valor": "40",      "label": "Hospitais modernizados" },
+      { "icone": "💻", "valor": "95 000",  "label": "Estudantes com acesso digital" },
+      { "icone": "🌊", "valor": "180 000", "label": "Habitantes protegidos de cheias" }
+    ],
+    "alerta": {
+      "titulo": "Maior rácio PRR/PIB da EU",
+      "descricao": "A Croácia tem o maior rácio de fundos PRR em percentagem do PIB (17.9%), representando uma transformação estrutural significativa para a economia nacional.",
+      "comparacoes": [
+        "Volume per capita entre os mais elevados da UE",
+        "Progresso geral de 52%, acima da média europeia",
+        "Foco especial em resiliência sísmica e costeira"
+      ]
+    }
+  }
+]

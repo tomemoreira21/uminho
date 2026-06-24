@@ -1,0 +1,268 @@
+[
+  {
+    "numero": 1,
+    "titulo": "Poupança no consumo anual de energia primária",
+    "icone": "⚡",
+    "pilaresIds": ["transicao-verde"],
+    "label": "Total de poupança",
+    "valorTotal": "37 568 052 MWh/Ano",
+    "valorPorPais": {
+      "portugal": "1 243 000 MWh/Ano",
+      "espanha":  "4 820 000 MWh/Ano",
+      "italia":   "6 150 000 MWh/Ano",
+      "franca":   "3 980 000 MWh/Ano",
+      "alemanha": "5 640 000 MWh/Ano",
+      "polonia":  "2 310 000 MWh/Ano",
+      "grecia":   "890 000 MWh/Ano",
+      "romania":  "1 120 000 MWh/Ano",
+      "croacia":  "420 000 MWh/Ano"
+    }
+  },
+  {
+    "numero": 2,
+    "titulo": "Capacidade operacional adicional instalada para energias renováveis",
+    "icone": "🌱",
+    "pilaresIds": ["transicao-verde", "crescimento", "politicas"],
+    "label": "Capacidade operacional total",
+    "valorTotal": "62 444 MW",
+    "valorPorPais": {
+      "portugal": "1 850 MW",
+      "espanha":  "9 200 MW",
+      "italia":   "8 400 MW",
+      "franca":   "6 100 MW",
+      "alemanha": "12 300 MW",
+      "polonia":  "4 200 MW",
+      "grecia":   "2 100 MW",
+      "romania":  "1 800 MW",
+      "croacia":  "680 MW"
+    }
+  },
+  {
+    "numero": 3,
+    "titulo": "Infraestrutura de combustíveis alternativos",
+    "icone": "⛽",
+    "pilaresIds": ["transicao-verde", "coesao"],
+    "label": "Infraestrutura total",
+    "valorTotal": "940 886",
+    "valorPorPais": {
+      "portugal": "18 400",
+      "espanha":  "124 000",
+      "italia":   "148 000",
+      "franca":   "110 000",
+      "alemanha": "198 000",
+      "polonia":  "62 000",
+      "grecia":   "28 000",
+      "romania":  "34 000",
+      "croacia":  "12 000"
+    }
+  },
+  {
+    "numero": 4,
+    "titulo": "População beneficia de medidas de proteção contra inundações",
+    "icone": "🌊",
+    "pilaresIds": ["transicao-verde", "coesao"],
+    "label": "População total",
+    "valorTotal": "36 848 373",
+    "valorPorPais": {
+      "portugal": "820 000",
+      "espanha":  "4 200 000",
+      "italia":   "6 800 000",
+      "franca":   "3 900 000",
+      "alemanha": "5 100 000",
+      "polonia":  "4 800 000",
+      "grecia":   "1 200 000",
+      "romania":  "2 400 000",
+      "croacia":  "480 000"
+    }
+  },
+  {
+    "numero": 5,
+    "titulo": "Habitações adicionais com acesso à internet de capacidade muito elevada",
+    "icone": "🌐",
+    "pilaresIds": ["transformacao-digital"],
+    "label": "Total de habitações",
+    "valorTotal": "17 565 216",
+    "valorPorPais": {
+      "portugal": "645 000",
+      "espanha":  "2 800 000",
+      "italia":   "3 200 000",
+      "franca":   "2 400 000",
+      "alemanha": "3 800 000",
+      "polonia":  "1 650 000",
+      "grecia":   "780 000",
+      "romania":  "920 000",
+      "croacia":  "310 000"
+    }
+  },
+  {
+    "numero": 6,
+    "titulo": "Empresas apoiadas para desenvolver produtos, serviços e processos digitais",
+    "icone": "🏢",
+    "pilaresIds": ["transformacao-digital", "crescimento", "politicas"],
+    "label": "Total de empresas",
+    "valorTotal": "1 448 877",
+    "valorPorPais": {
+      "portugal": "42 300",
+      "espanha":  "198 000",
+      "italia":   "220 000",
+      "franca":   "165 000",
+      "alemanha": "280 000",
+      "polonia":  "124 000",
+      "grecia":   "48 000",
+      "romania":  "62 000",
+      "croacia":  "18 000"
+    }
+  },
+  {
+    "numero": 7,
+    "titulo": "Usuários de novos e atualizados serviços e processos digitais públicos",
+    "icone": "💻",
+    "pilaresIds": ["transformacao-digital"],
+    "label": "Total de usuários",
+    "valorTotal": "2 482 256 254",
+    "valorPorPais": {
+      "portugal": "3 200 000",
+      "espanha":  "18 400 000",
+      "italia":   "22 000 000",
+      "franca":   "16 800 000",
+      "alemanha": "28 000 000",
+      "polonia":  "12 400 000",
+      "grecia":   "4 200 000",
+      "romania":  "6 800 000",
+      "croacia":  "1 900 000"
+    }
+  },
+  {
+    "numero": 8,
+    "titulo": "Pesquisadores que trabalham em instalações de pesquisa apoiadas",
+    "icone": "🔬",
+    "pilaresIds": ["crescimento"],
+    "label": "Total de pesquisadores",
+    "valorTotal": "231 136",
+    "valorPorPais": {
+      "portugal": "8 450",
+      "espanha":  "32 000",
+      "italia":   "38 000",
+      "franca":   "28 000",
+      "alemanha": "52 000",
+      "polonia":  "18 000",
+      "grecia":   "7 200",
+      "romania":  "9 800",
+      "croacia":  "2 800"
+    }
+  },
+  {
+    "numero": 9,
+    "titulo": "Empresas apoiadas (pequenas, médias e grandes)",
+    "icone": "🏭",
+    "pilaresIds": ["crescimento", "transformacao-digital", "politicas"],
+    "label": "Total de empresas",
+    "valorTotal": "4 909 834",
+    "valorPorPais": {
+      "portugal": "96 000",
+      "espanha":  "620 000",
+      "italia":   "780 000",
+      "franca":   "520 000",
+      "alemanha": "890 000",
+      "polonia":  "380 000",
+      "grecia":   "148 000",
+      "romania":  "210 000",
+      "croacia":  "58 000"
+    }
+  },
+  {
+    "numero": 10,
+    "titulo": "Número de participantes na educação ou formação",
+    "icone": "🎓",
+    "pilaresIds": ["transformacao-digital", "saude", "politicas"],
+    "label": "Total de participantes",
+    "valorTotal": "30 713 986",
+    "valorPorPais": {
+      "portugal": "720 000",
+      "espanha":  "3 800 000",
+      "italia":   "4 600 000",
+      "franca":   "3 200 000",
+      "alemanha": "5 400 000",
+      "polonia":  "3 100 000",
+      "grecia":   "980 000",
+      "romania":  "1 400 000",
+      "croacia":  "380 000"
+    }
+  },
+  {
+    "numero": 11,
+    "titulo": "Número de pessoas empregadas ou envolvidas em procura de emprego",
+    "icone": "👷",
+    "pilaresIds": ["saude", "politicas"],
+    "label": "Total de pessoas",
+    "valorTotal": "3 470 498",
+    "valorPorPais": {
+      "portugal": "98 000",
+      "espanha":  "420 000",
+      "italia":   "520 000",
+      "franca":   "380 000",
+      "alemanha": "620 000",
+      "polonia":  "340 000",
+      "grecia":   "112 000",
+      "romania":  "168 000",
+      "croacia":  "42 000"
+    }
+  },
+  {
+    "numero": 12,
+    "titulo": "Capacidade de instalações de cuidados de saúde novas ou modernizadas",
+    "icone": "🏥",
+    "pilaresIds": ["saude", "coesao"],
+    "label": "Capacidade total",
+    "valorTotal": "60 232 747",
+    "valorPorPais": {
+      "portugal": "1 450 000",
+      "espanha":  "7 200 000",
+      "italia":   "9 800 000",
+      "franca":   "6 400 000",
+      "alemanha": "11 200 000",
+      "polonia":  "5 800 000",
+      "grecia":   "2 100 000",
+      "romania":  "3 400 000",
+      "croacia":  "820 000"
+    }
+  },
+  {
+    "numero": 13,
+    "titulo": "Capacidade de sala de aula de instalações de acolhimento e educação",
+    "icone": "🏫",
+    "pilaresIds": ["politicas"],
+    "label": "Capacidade total",
+    "valorTotal": "4 185 273",
+    "valorPorPais": {
+      "portugal": "87 000",
+      "espanha":  "480 000",
+      "italia":   "620 000",
+      "franca":   "420 000",
+      "alemanha": "780 000",
+      "polonia":  "380 000",
+      "grecia":   "98 000",
+      "romania":  "148 000",
+      "croacia":  "38 000"
+    }
+  },
+  {
+    "numero": 14,
+    "titulo": "Número de jovens entre 15 e 29 anos a receber apoio",
+    "icone": "👦",
+    "pilaresIds": ["politicas", "saude"],
+    "label": "Total de jovens",
+    "valorTotal": "12 676 811",
+    "valorPorPais": {
+      "portugal": "310 000",
+      "espanha":  "1 420 000",
+      "italia":   "1 980 000",
+      "franca":   "1 240 000",
+      "alemanha": "2 100 000",
+      "polonia":  "1 480 000",
+      "grecia":   "420 000",
+      "romania":  "680 000",
+      "croacia":  "168 000"
+    }
+  }
+]

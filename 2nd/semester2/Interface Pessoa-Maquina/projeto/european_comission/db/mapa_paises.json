@@ -1,0 +1,101 @@
+[
+  {
+    "id": "portugal", "codigo": "PT", "nome": "Portugal", "bandeira": "🇵🇹",
+    "dotacao": "16,6 mil M€", "desembolsado": "6,1 mil M€",
+    "marcos": "58 / 82", "execucao": 74,
+    "historico": [
+      { "data": "2026-03-09", "tipo": "Desembolso", "descricao": "Pagamento da 3.ª prestação aprovado pela Comissão Europeia" },
+      { "data": "2025-10-14", "tipo": "Avaliação", "descricao": "58 marcos e metas cumpridos, superando a meta semestral" },
+      { "data": "2024-05-20", "tipo": "Revisão", "descricao": "Revisão do PRR aprovada com reforço do pilar digital" },
+      { "data": "2021-08-02", "tipo": "Aprovação", "descricao": "Plano de Recuperação e Resiliência aprovado pela Comissão Europeia" }
+    ]
+  },
+  {
+    "id": "espanha", "codigo": "ES", "nome": "Espanha", "bandeira": "🇪🇸",
+    "dotacao": "69,5 mil M€", "desembolsado": "37,0 mil M€",
+    "marcos": "92 / 120", "execucao": 53,
+    "historico": [
+      { "data": "2026-01-20", "tipo": "Avaliação", "descricao": "4.ª avaliação concluída com sucesso, fundos desbloqueados" },
+      { "data": "2024-11-05", "tipo": "Revisão", "descricao": "Revisão do plano aprovada com novos investimentos em habitação" },
+      { "data": "2023-07-18", "tipo": "Desembolso", "descricao": "Terceira prestação de 6 mil M€ recebida" },
+      { "data": "2021-06-13", "tipo": "Aprovação", "descricao": "Plano de Recuperação, Transformação e Resiliência aprovado" }
+    ]
+  },
+  {
+    "id": "italia", "codigo": "IT", "nome": "Itália", "bandeira": "🇮🇹",
+    "dotacao": "191,5 mil M€", "desembolsado": "85,0 mil M€",
+    "marcos": "110 / 148", "execucao": 44,
+    "historico": [
+      { "data": "2026-02-28", "tipo": "Avaliação", "descricao": "5.ª avaliação concluída, acesso à 5.ª parcela desbloqueado" },
+      { "data": "2024-08-02", "tipo": "Revisão", "descricao": "Revisão do PNRR aprovada pela Comissão com ajustes ao pilar social" },
+      { "data": "2023-11-24", "tipo": "Desembolso", "descricao": "4.ª parcela de 16,5 mil M€ recebida" },
+      { "data": "2021-07-13", "tipo": "Aprovação", "descricao": "Piano Nazionale di Ripresa e Resilienza (PNRR) aprovado" }
+    ]
+  },
+  {
+    "id": "franca", "codigo": "FR", "nome": "França", "bandeira": "🇫🇷",
+    "dotacao": "40,9 mil M€", "desembolsado": "18,4 mil M€",
+    "marcos": "76 / 104", "execucao": 45,
+    "historico": [
+      { "data": "2025-12-10", "tipo": "Avaliação", "descricao": "3.ª avaliação positiva da Comissão Europeia" },
+      { "data": "2024-09-14", "tipo": "Desembolso", "descricao": "Terceira parcela de 5,1 mil M€ recebida" },
+      { "data": "2023-04-28", "tipo": "Avaliação", "descricao": "2.ª avaliação concluída, progresso reconhecido no pilar digital" },
+      { "data": "2021-07-23", "tipo": "Aprovação", "descricao": "Plan de Relance (France 2030) aprovado pela Comissão" }
+    ]
+  },
+  {
+    "id": "alemanha", "codigo": "DE", "nome": "Alemanha", "bandeira": "🇩🇪",
+    "dotacao": "25,6 mil M€", "desembolsado": "12,8 mil M€",
+    "marcos": "64 / 98", "execucao": 50,
+    "historico": [
+      { "data": "2025-11-18", "tipo": "Desembolso", "descricao": "2.ª parcela de 6,4 mil M€ desembolsada pela Comissão" },
+      { "data": "2025-06-03", "tipo": "Avaliação", "descricao": "1.ª avaliação aprovada, 64 marcos cumpridos" },
+      { "data": "2023-02-22", "tipo": "Desembolso", "descricao": "Pré-financiamento de 2,25 mil M€ recebido" },
+      { "data": "2021-08-23", "tipo": "Aprovação", "descricao": "Aufbau- und Resilienzplan (DARP) aprovado pela Comissão" }
+    ]
+  },
+  {
+    "id": "polonia", "codigo": "PL", "nome": "Polónia", "bandeira": "🇵🇱",
+    "dotacao": "35,4 mil M€", "desembolsado": "5,1 mil M€",
+    "marcos": "32 / 90", "execucao": 14,
+    "historico": [
+      { "data": "2025-03-01", "tipo": "Desembolso", "descricao": "1.ª parcela de 5,1 mil M€ desbloqueada após cumprimento de condições" },
+      { "data": "2024-08-15", "tipo": "Avaliação", "descricao": "1.ª avaliação concluída após reformas do Estado de direito" },
+      { "data": "2023-06-01", "tipo": "Revisão", "descricao": "Plano revisto e expandido com 4,7 mil M€ adicionais do REPowerEU" },
+      { "data": "2022-06-01", "tipo": "Aprovação", "descricao": "Krajowy Plan Odbudowy (KPO) aprovado pela Comissão" }
+    ]
+  },
+  {
+    "id": "grecia", "codigo": "GR", "nome": "Grécia", "bandeira": "🇬🇷",
+    "dotacao": "30,5 mil M€", "desembolsado": "13,5 mil M€",
+    "marcos": "68 / 100", "execucao": 44,
+    "historico": [
+      { "data": "2025-09-12", "tipo": "Avaliação", "descricao": "3.ª avaliação aprovada, acesso à 4.ª parcela garantido" },
+      { "data": "2025-02-20", "tipo": "Desembolso", "descricao": "Parcela de 3,6 mil M€ recebida, a maior até à data" },
+      { "data": "2023-12-04", "tipo": "Avaliação", "descricao": "2.ª avaliação concluída com progresso acima da média" },
+      { "data": "2021-08-13", "tipo": "Aprovação", "descricao": "Plano Nacional de Recuperação e Resiliência (Ellinika) aprovado" }
+    ]
+  },
+  {
+    "id": "romania", "codigo": "RO", "nome": "Roménia", "bandeira": "🇷🇴",
+    "dotacao": "28,5 mil M€", "desembolsado": "6,8 mil M€",
+    "marcos": "40 / 98", "execucao": 24,
+    "historico": [
+      { "data": "2025-06-20", "tipo": "Desembolso", "descricao": "2.ª parcela de 3,1 mil M€ recebida após 2.ª avaliação" },
+      { "data": "2024-11-08", "tipo": "Avaliação", "descricao": "2.ª avaliação concluída com recomendações de aceleração" },
+      { "data": "2023-11-27", "tipo": "Avaliação", "descricao": "1.ª avaliação positiva, 40 marcos iniciais cumpridos" },
+      { "data": "2021-09-29", "tipo": "Aprovação", "descricao": "Planul Național de Redresare și Reziliență (PNRR) aprovado" }
+    ]
+  },
+  {
+    "id": "croacia", "codigo": "HR", "nome": "Croácia", "bandeira": "🇭🇷",
+    "dotacao": "6,3 mil M€", "desembolsado": "3,4 mil M€",
+    "marcos": "52 / 74", "execucao": 54,
+    "historico": [
+      { "data": "2025-10-05", "tipo": "Avaliação", "descricao": "3.ª avaliação positiva, progresso destacado na resiliência sísmica" },
+      { "data": "2025-03-14", "tipo": "Desembolso", "descricao": "Terceira parcela de 1,1 mil M€ recebida" },
+      { "data": "2023-10-20", "tipo": "Avaliação", "descricao": "2.ª avaliação concluída, execução acima da média da UE" },
+      { "data": "2021-09-14", "tipo": "Aprovação", "descricao": "Nacionalni plan oporavka i otpornosti (NPOO) aprovado" }
+    ]
+  }
+]

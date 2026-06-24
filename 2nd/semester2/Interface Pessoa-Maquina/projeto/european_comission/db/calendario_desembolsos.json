@@ -1,0 +1,17 @@
+[
+  { "paisId": "italia",   "pais": "Itália",   "bandeira": "🇮🇹", "data": "22/03/2026", "pedido": "1º Pagamento",  "tipo": "Subsídios",    "valorEur": "175 352 933",   "estado": "Próximo",  "estadoId": "proximo"  },
+  { "paisId": "espanha",  "pais": "Espanha",  "bandeira": "🇪🇸", "data": "14/04/2026", "pedido": "3º Pagamento",  "tipo": "Empréstimos",  "valorEur": "464 057 363",   "estado": "Próximo",  "estadoId": "proximo"  },
+  { "paisId": "italia",   "pais": "Itália",   "bandeira": "🇮🇹", "data": "30/05/2026", "pedido": "4º Pagamento",  "tipo": "Subsídios",    "valorEur": "1 465 696 133", "estado": "Próximo",  "estadoId": "proximo"  },
+  { "paisId": "grecia",   "pais": "Grécia",   "bandeira": "🇬🇷", "data": "18/06/2026", "pedido": "2º Pagamento",  "tipo": "Empréstimos",  "valorEur": "380 140 000",   "estado": "Próximo",  "estadoId": "proximo"  },
+  { "paisId": "croacia",  "pais": "Croácia",  "bandeira": "🇭🇷", "data": "22/09/2026", "pedido": "2º Pagamento",  "tipo": "Subsídios",    "valorEur": "604 205 677",   "estado": "Planeado", "estadoId": "planeado" },
+  { "paisId": "romania",  "pais": "Roménia",  "bandeira": "🇷🇴", "data": "10/10/2026", "pedido": "3º Pagamento",  "tipo": "Subsídios",    "valorEur": "892 300 000",   "estado": "Planeado", "estadoId": "planeado" },
+  { "paisId": "italia",   "pais": "Itália",   "bandeira": "🇮🇹", "data": "15/11/2026", "pedido": "5º Pagamento",  "tipo": "Empréstimos",  "valorEur": "2 100 450 000", "estado": "Planeado", "estadoId": "planeado" },
+  { "paisId": "polonia",  "pais": "Polónia",  "bandeira": "🇵🇱", "data": "28/10/2025", "pedido": "2º Pagamento",  "tipo": "Subsídios",    "valorEur": "1 084 731 153", "estado": "Pago",     "estadoId": "pago"     },
+  { "paisId": "franca",   "pais": "França",   "bandeira": "🇫🇷", "data": "10/09/2025", "pedido": "2º Pagamento",  "tipo": "Subsídios",    "valorEur": "3 320 450 000", "estado": "Pago",     "estadoId": "pago"     },
+  { "paisId": "alemanha", "pais": "Alemanha", "bandeira": "🇩🇪", "data": "05/08/2025", "pedido": "3º Pagamento",  "tipo": "Subsídios",    "valorEur": "890 123 456",   "estado": "Pago",     "estadoId": "pago"     },
+  { "paisId": "portugal", "pais": "Portugal", "bandeira": "🇵🇹", "data": "01/07/2025", "pedido": "5º Pagamento",  "tipo": "Subsídios",    "valorEur": "1 198 765 432", "estado": "Pago",     "estadoId": "pago"     },
+  { "paisId": "espanha",  "pais": "Espanha",  "bandeira": "🇪🇸", "data": "12/06/2025", "pedido": "4º Pagamento",  "tipo": "Subsídios",    "valorEur": "5 670 000 000", "estado": "Pago",     "estadoId": "pago"     },
+  { "paisId": "grecia",   "pais": "Grécia",   "bandeira": "🇬🇷", "data": "22/05/2025", "pedido": "1º Pagamento",  "tipo": "Subsídios",    "valorEur": "450 280 000",   "estado": "Pago",     "estadoId": "pago"     },
+  { "paisId": "romania",  "pais": "Roménia",  "bandeira": "🇷🇴", "data": "30/04/2025", "pedido": "2º Pagamento",  "tipo": "Empréstimos",  "valorEur": "720 500 000",   "estado": "Pago",     "estadoId": "pago"     },
+  { "paisId": "croacia",  "pais": "Croácia",  "bandeira": "🇭🇷", "data": "14/03/2025", "pedido": "1º Pagamento",  "tipo": "Subsídios",    "valorEur": "318 900 000",   "estado": "Pago",     "estadoId": "pago"     }
+]

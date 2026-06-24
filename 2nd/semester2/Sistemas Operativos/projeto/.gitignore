@@ -1,0 +1,16 @@
+# VS Code
+.vscode/
+
+# Arquivos binários
+*.exe
+*.out
+*.o
+
+# Arquivos temporários
+*.swp
+*~
+
+# Diretórios de build
+obj/
+bin/
+tmp/

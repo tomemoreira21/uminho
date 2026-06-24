@@ -1,0 +1,393 @@
+[
+    {
+      "pais": "Portugal",
+      "bandeira": "🇵🇹",
+      "medida": "Agenda de Transformação Digital da Administração Pública",
+      "tipo": "Reforma",
+      "estado": "Atrasado",
+      "progresso": 80,
+      "pilares": ["crescimento", "saude"],
+      "historico": [
+        {
+          "data": "2026-02-02",
+          "tipo": "Atualização de Progresso",
+          "descricao": "84 serviços públicos migrados (de 80 previstos). Conclusão de parte das integrações complexas, mantendo pendentes 12 serviços. Interrupção de metas por dificuldades do utilizador e desempenho da plataforma.",
+          "justificacao": "Atrasos técnicos acumulados e necessidade de reforço de recursos especializados.",
+          "impacto": "Execução global: 80%, com atraso face ao calendário inicial."
+        },
+        {
+          "data": "2025-11-06",
+          "tipo": "Primeira Atualização de Execução",
+          "descricao": "42 serviços públicos migrados para plataforma digital. Ajuste tático ao modelo de interoperabilidade entre organismos. Reforço de componente de acessibilidade digital (WCAG 2.1).",
+          "justificacao": "Reforço de calendário inicial devido à antecipação de recursos técnicos.",
+          "impacto": "Meta inicial: migração até 30 de setembro."
+        },
+        {
+          "data": "2025-09-02",
+          "tipo": "Revisão Intercalar de Replanemento",
+          "descricao": "Identificação de 8 serviços com elevada complexidade técnica (integração com sistemas legados). Reescalonamento parcial dessas integrações para fase final do projeto. Reforço orçamental para suporte técnico e cibersegurança.",
+          "justificacao": "Complexidade técnica superior ao previsto.",
+          "impacto": "Primeiros sinais de desvio face ao cronograma inicial."
+        },
+        {
+          "data": "2025-08-11",
+          "tipo": "Criação da Medida",
+          "descricao": "Criação formal da medida no âmbito do Plano Nacional de Recuperação e Resiliência. Definição de objetivos: modernização administrativa, interoperabilidade e digitalização de serviços ministeriais. Meta inicial: migração/digitação de 80 serviços públicos para plataforma digital unificada até 2026.",
+          "justificacao": "",
+          "impacto": ""
+        }
+      ]
+    },
+    {
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "medida": "Plano de Digitalização das PME",
+      "tipo": "Reforma",
+      "estado": "Em risco",
+      "progresso": 55,
+      "pilares": ["transformacao-digital", "saude"],
+      "historico": [
+        {
+          "data": "2026-01-15",
+          "tipo": "Atualização de Progresso",
+          "descricao": "55% das PME elegíveis aderiram ao programa de digitalização. Verificam-se atrasos na adoção de ferramentas de cibersegurança por falta de formação técnica interna nas empresas.",
+          "justificacao": "Baixa literacia digital nas PME de menor dimensão dificulta a implementação autónoma.",
+          "impacto": "Risco de não atingir a meta de 75% de adesão até ao 3.º trimestre de 2026."
+        },
+        {
+          "data": "2025-10-20",
+          "tipo": "Revisão Intercalar",
+          "descricao": "Reforço do pacote de formação digital com parceria com câmaras de comércio regionais. Introdução de vouchers de consultoria para PME com menos de 10 trabalhadores.",
+          "justificacao": "Necessidade de adaptar o modelo de apoio às especificidades das microempresas.",
+          "impacto": "Aceleração esperada da taxa de adesão no 1.º semestre de 2026."
+        },
+        {
+          "data": "2025-07-01",
+          "tipo": "Criação da Medida",
+          "descricao": "Lançamento formal do programa no âmbito do Plan de Recuperación, Transformación y Resiliencia. Objetivos: digitalizar 10.000 PME espanholas com foco em ferramentas cloud, e-commerce e cibersegurança até 2026.",
+          "justificacao": "",
+          "impacto": ""
+        }
+      ]
+    },
+    {
+      "pais": "França",
+      "bandeira": "🇫🇷",
+      "medida": "Plano França 2030 – Hidrogénio Verde",
+      "tipo": "Investimento",
+      "estado": "Atrasado",
+      "progresso": 30,
+      "pilares": ["transicao-verde", "coesao"],
+      "historico": [
+        {
+          "data": "2026-02-10",
+          "tipo": "Atualização de Progresso",
+          "descricao": "Apenas 3 dos 10 electrolisadores previstos em fase de construção. Atrasos na obtenção de licenças ambientais e dificuldades no aprovisionamento de equipamentos especializados provenientes da Ásia.",
+          "justificacao": "Cadeia de fornecimento global com ruturas significativas; processo de licenciamento mais moroso do que antecipado.",
+          "impacto": "Execução global: 30%, com risco de incumprimento da meta de 2027."
+        },
+        {
+          "data": "2025-11-18",
+          "tipo": "Revisão Intercalar",
+          "descricao": "Redefinição do calendário de instalação dos electrolisadores. Negociação de contratos alternativos com fornecedores europeus para reduzir dependência asiática.",
+          "justificacao": "Pressão geopolítica e custos de importação elevados.",
+          "impacto": "Revisão da meta intercalar de capacidade instalada de 500 MW para 350 MW até 2026."
+        },
+        {
+          "data": "2025-06-15",
+          "tipo": "Criação da Medida",
+          "descricao": "Aprovação formal do investimento no quadro do France 2030. Meta: instalar 6,5 GW de capacidade de produção de hidrogénio verde até 2030, com primeiro marco em 2026 de 500 MW.",
+          "justificacao": "",
+          "impacto": ""
+        }
+      ]
+    },
+    {
+      "pais": "Polónia",
+      "bandeira": "🇵🇱",
+      "medida": "Modernização da rede elétrica e integração de energias renováveis",
+      "tipo": "Reforma",
+      "estado": "Dentro do Prazo",
+      "progresso": 72,
+      "pilares": ["transicao-verde", "transformacao-digital"],
+      "historico": [
+        {
+          "data": "2026-01-28",
+          "tipo": "Atualização de Progresso",
+          "descricao": "72% da rede de distribuição nas regiões prioritárias já modernizada com contadores inteligentes. Integração de 4,2 GW de capacidade renovável na rede concluída dentro do prazo.",
+          "justificacao": "Boa execução contratual com consórcio de empresas polacas e alemãs.",
+          "impacto": "Projeto dentro do cronograma; estimativa de conclusão no 2.º trimestre de 2026."
+        },
+        {
+          "data": "2025-09-10",
+          "tipo": "Primeira Atualização de Execução",
+          "descricao": "Conclusão da fase piloto em 3 regiões com instalação de 120.000 contadores inteligentes. Sistema de gestão de rede (SCADA) operacional nas subestações modernizadas.",
+          "justificacao": "Execução acelerada graças a pré-qualificação de fornecedores realizada antes do arranque formal.",
+          "impacto": "Adiantamento de 6 semanas face ao cronograma inicial."
+        },
+        {
+          "data": "2025-05-20",
+          "tipo": "Criação da Medida",
+          "descricao": "Aprovação da medida no quadro do Krajowy Plan Odbudowy. Objetivos: modernizar 85% da rede de distribuição e integrar 8 GW de energias renováveis até ao final de 2026.",
+          "justificacao": "",
+          "impacto": ""
+        }
+      ]
+    },
+    {
+      "pais": "Itália",
+      "bandeira": "🇮🇹",
+      "medida": "Plano de Transição 4.0 – Incentivos à indústria digital",
+      "tipo": "Investimento",
+      "estado": "Dentro do Prazo",
+      "progresso": 91,
+      "pilares": ["crescimento", "coesao"],
+      "historico": [
+        {
+          "data": "2026-02-05",
+          "tipo": "Atualização de Progresso",
+          "descricao": "91% do orçamento alocado já comprometido com empresas beneficiárias. Mais de 28.000 empresas industriais beneficiaram de créditos fiscais para automação e robótica.",
+          "justificacao": "Elevada adesão do tecido industrial italiano, em particular no Norte.",
+          "impacto": "Projeto em fase de conclusão; restam apenas procedimentos de auditoria e encerramento contabilístico."
+        },
+        {
+          "data": "2025-10-14",
+          "tipo": "Revisão Intercalar",
+          "descricao": "Extensão do programa a PME do sector têxtil e agroalimentar mediante simplificação dos critérios de elegibilidade. Aumento do teto de crédito fiscal de 20% para 40% para investimentos em IA.",
+          "justificacao": "Necessidade de alargar o impacto a sectores tradicionais com menor capacidade de absorção tecnológica.",
+          "impacto": "Aumento de 15% no número de candidaturas no 4.º trimestre de 2025."
+        },
+        {
+          "data": "2025-04-10",
+          "tipo": "Criação da Medida",
+          "descricao": "Lançamento formal no âmbito do Piano Nazionale di Ripresa e Resilienza. Objetivo: modernizar a indústria italiana através de incentivos fiscais à adoção de tecnologias 4.0, IA e automação, com meta de 30.000 empresas beneficiárias.",
+          "justificacao": "",
+          "impacto": ""
+        }
+      ]
+    },
+    {
+      "pais": "Alemanha",
+      "bandeira": "🇩🇪",
+      "medida": "Pacote de apoio a startups inovadoras (ScaleUp Deutschland)",
+      "tipo": "Investimento",
+      "estado": "Atrasado",
+      "progresso": 18,
+      "pilares": ["crescimento", "saude"],
+      "historico": [
+        {
+          "data": "2026-01-20",
+          "tipo": "Atualização de Progresso",
+          "descricao": "Apenas 18% do fundo mobilizado. Atrasos na constituição do veículo de investimento público-privado e divergências entre estados federais sobre os critérios de elegibilidade das startups.",
+          "justificacao": "Complexidade do modelo de governação federalista alemão e negociações prolongadas com o sector de capital de risco.",
+          "impacto": "Risco elevado de subutilização do fundo; revisão do modelo de gestão em curso."
+        },
+        {
+          "data": "2025-10-05",
+          "tipo": "Revisão Intercalar",
+          "descricao": "Proposta de simplificação dos critérios de seleção e criação de balcão único para candidaturas. Envolvimento da KfW como entidade gestora intermédia para desburocratizar o processo.",
+          "justificacao": "Feedback negativo das startups sobre a complexidade administrativa do programa.",
+          "impacto": "Expectativa de aceleração da mobilização no 1.º semestre de 2026."
+        },
+        {
+          "data": "2025-06-01",
+          "tipo": "Criação da Medida",
+          "descricao": "Aprovação do pacote no Bundestag. Objetivo: mobilizar 2 mil milhões de euros em financiamento misto (público e privado) para apoiar 500 startups de alto crescimento nos sectores de saúde digital, clima e deep tech até 2027.",
+          "justificacao": "",
+          "impacto": ""
+        }
+      ]
+    },
+    {
+      "pais": "Portugal",
+      "bandeira": "🇵🇹",
+      "medida": "Infraestrutura Ferroviária – Corredor Internacional Sul",
+      "tipo": "Investimento",
+      "estado": "Dentro do Prazo",
+      "progresso": 45,
+      "pilares": ["transformacao-digital"],
+      "historico": [
+        {
+          "data": "2026-02-01",
+          "tipo": "Atualização de Progresso",
+          "descricao": "45% das obras de modernização da via concluídas. Troço Évora–Elvas em fase de instalação de sinalização digital ERTMS. Adjudicação do segundo lote de obras (Elvas–fronteira) concluída.",
+          "justificacao": "Ritmo de obra conforme ao planeado; sem ocorrências relevantes.",
+          "impacto": "Projeto dentro do cronograma para conclusão em 2027."
+        },
+        {
+          "data": "2025-08-22",
+          "tipo": "Primeira Atualização de Execução",
+          "descricao": "Conclusão das obras de terraplanagem e drenagem nos primeiros 40 km. Início da montagem de via em betão armado. Sistema de gestão do tráfego ferroviário em fase de instalação.",
+          "justificacao": "Arranque das obras sem constrangimentos após adjudicação concluída em tempo útil.",
+          "impacto": "Adiantamento de 3 semanas face ao cronograma de obras."
+        },
+        {
+          "data": "2025-03-15",
+          "tipo": "Criação da Medida",
+          "descricao": "Aprovação do investimento no âmbito do PRR e co-financiamento do Mecanismo Interligar a Europa (CEF). Objetivo: modernizar o corredor ferroviário Lisboa–Madrid com introdução de sinalização ERTMS e aumento de capacidade de carga até 2027.",
+          "justificacao": "",
+          "impacto": ""
+        }
+      ]
+    },
+    {
+      "pais": "Espanha",
+      "bandeira": "🇪🇸",
+      "medida": "Plano Nacional de Recuperação do Sistema de Saúde",
+      "tipo": "Reforma",
+      "estado": "Em risco",
+      "progresso": 63,
+      "pilares": ["saude", "politicas"],
+      "historico": [
+        {
+          "data": "2026-01-30",
+          "tipo": "Atualização de Progresso",
+          "descricao": "63% das reformas estruturais do SNS implementadas. Persistem atrasos na contratação de médicos especialistas nas comunidades autónomas do interior e na interoperabilidade dos sistemas de informação clínica.",
+          "justificacao": "Escassez de profissionais de saúde qualificados e resistência institucional à partilha de dados entre comunidades.",
+          "impacto": "Risco de não cumprir o indicador de redução de listas de espera em 40% até ao final de 2026."
+        },
+        {
+          "data": "2025-09-25",
+          "tipo": "Revisão Intercalar",
+          "descricao": "Aprovação de plano de incentivos à fixação de médicos em zonas rurais. Lançamento de plataforma nacional de interoperabilidade clínica em fase piloto em 4 comunidades autónomas.",
+          "justificacao": "Necessidade de corrigir assimetrias regionais no acesso a cuidados de saúde.",
+          "impacto": "Melhoria esperada nos indicadores de acesso no 1.º semestre de 2026."
+        },
+        {
+          "data": "2025-05-10",
+          "tipo": "Criação da Medida",
+          "descricao": "Aprovação formal no quadro do PRTR espanhol. Objetivos: reforçar a capacidade do SNS, reduzir listas de espera em 40%, digitalizar 100% dos processos clínicos e implementar telemedicina em 80% dos centros de saúde até 2026.",
+          "justificacao": "",
+          "impacto": ""
+        }
+      ]
+    },
+    {
+      "pais": "França",
+      "bandeira": "🇫🇷",
+      "medida": "Programa de Inclusão Digital para Seniores",
+      "tipo": "Reforma",
+      "estado": "Dentro do Prazo",
+      "progresso": 88,
+      "pilares": ["transformacao-digital", "politicas"],
+      "historico": [
+        {
+          "data": "2026-02-08",
+          "tipo": "Atualização de Progresso",
+          "descricao": "88% da meta de formação atingida, com 264.000 seniores formados em competências digitais básicas. Rede de 1.200 mediadores digitais operacional em todo o território.",
+          "justificacao": "Forte adesão das autarquias locais e das associações de reformados.",
+          "impacto": "Projeto em fase de conclusão; estimativa de superar a meta de 300.000 formados até junho de 2026."
+        },
+        {
+          "data": "2025-10-30",
+          "tipo": "Revisão Intercalar",
+          "descricao": "Extensão do programa a residências sénior e lares de terceira idade. Parceria com operadores de telecomunicações para fornecimento de tablets subsidiados a beneficiários do RSA sénior.",
+          "justificacao": "Necessidade de alcançar seniores com mobilidade reduzida ou em isolamento.",
+          "impacto": "Aumento de 18% na taxa de participação no 4.º trimestre de 2025."
+        },
+        {
+          "data": "2025-04-20",
+          "tipo": "Criação da Medida",
+          "descricao": "Lançamento no quadro do volet numérique do Plan de Relance. Objetivo: formar 300.000 cidadãos com mais de 65 anos em competências digitais básicas e criar rede de mediadores digitais de proximidade até ao final de 2026.",
+          "justificacao": "",
+          "impacto": ""
+        }
+      ]
+    },
+    {
+      "pais": "Itália",
+      "bandeira": "🇮🇹",
+      "medida": "Reforço da Coesão Territorial – Regiões do Sul",
+      "tipo": "Investimento",
+      "estado": "Em risco",
+      "progresso": 41,
+      "pilares": ["coesao", "politicas"],
+      "historico": [
+        {
+          "data": "2026-01-25",
+          "tipo": "Atualização de Progresso",
+          "descricao": "41% do investimento executado. Atrasos nas obras de infraestrutura em Calábria e Sicília devido a constrangimentos de capacidade administrativa das autarquias locais e processos de contratação pública morosos.",
+          "justificacao": "Fragilidade institucional das administrações locais do Mezzogiorno e elevada litigância nos concursos públicos.",
+          "impacto": "Risco de perda de fundos europeus se a taxa de execução não atingir 60% até setembro de 2026."
+        },
+        {
+          "data": "2025-11-12",
+          "tipo": "Revisão Intercalar",
+          "descricao": "Criação de unidade de missão para apoio técnico às autarquias do Sul. Simplificação dos procedimentos de contratação pública para projetos abaixo de 5 milhões de euros.",
+          "justificacao": "Necessidade de reforçar a capacidade de absorção dos fundos nas regiões menos desenvolvidas.",
+          "impacto": "Aceleração esperada da execução no 1.º semestre de 2026."
+        },
+        {
+          "data": "2025-05-05",
+          "tipo": "Criação da Medida",
+          "descricao": "Aprovação no PNRR italiano. Objetivo: reduzir o diferencial de desenvolvimento entre Norte e Sul da Itália através de investimentos em infraestruturas, educação e conectividade digital nas regiões do Mezzogiorno.",
+          "justificacao": "",
+          "impacto": ""
+        }
+      ]
+    },
+    {
+      "pais": "Alemanha",
+      "bandeira": "🇩🇪",
+      "medida": "Transição Energética – Encerramento das Centrais a Carvão",
+      "tipo": "Reforma",
+      "estado": "Dentro do Prazo",
+      "progresso": 95,
+      "pilares": ["transicao-verde"],
+      "historico": [
+        {
+          "data": "2026-02-12",
+          "tipo": "Atualização de Progresso",
+          "descricao": "95% das centrais a carvão encerradas ou em processo final de desativação. Apenas 3 centrais permanecem em operação em modo de reserva de segurança, com encerramento previsto para o 2.º trimestre de 2026.",
+          "justificacao": "Cumprimento do calendário definido na Kohleausstiegsgesetz, com apoio social às comunidades mineiras assegurado.",
+          "impacto": "Alemanha no caminho de cumprir o objetivo de saída total do carvão antes de 2030."
+        },
+        {
+          "data": "2025-08-30",
+          "tipo": "Revisão Intercalar",
+          "descricao": "Conclusão dos programas de reconversão profissional para 18.000 trabalhadores do sector do carvão. Reforço da rede eléctrica nas regiões afectadas com investimento de 4,2 mil milhões de euros.",
+          "justificacao": "Necessidade de garantir a estabilidade da rede após encerramento acelerado de capacidade de base.",
+          "impacto": "Indicadores de segurança do abastecimento dentro dos limites regulatórios."
+        },
+        {
+          "data": "2025-02-28",
+          "tipo": "Criação da Medida",
+          "descricao": "Formalização da medida no âmbito do Aufbau- und Resilienzplan alemão. Objetivo: encerrar todas as centrais a carvão até 2030, com marco intercalar de 90% até 2026, assegurando transição justa para as regiões dependentes da mineração.",
+          "justificacao": "",
+          "impacto": ""
+        }
+      ]
+    },
+    {
+      "pais": "Polónia",
+      "bandeira": "🇵🇱",
+      "medida": "Programa de Apoio à Natalidade e Família",
+      "tipo": "Investimento",
+      "estado": "Atrasado",
+      "progresso": 22,
+      "pilares": ["politicas", "saude"],
+      "historico": [
+        {
+          "data": "2026-01-18",
+          "tipo": "Atualização de Progresso",
+          "descricao": "22% do orçamento executado. Atrasos na construção de novas creches e na implementação do subsídio de natalidade reformulado, bloqueado por divergências parlamentares sobre os critérios de elegibilidade.",
+          "justificacao": "Instabilidade política interna e mudança de governo em outubro de 2025 originaram revisão das prioridades orçamentais.",
+          "impacto": "Meta de 50.000 novos lugares em creche até 2026 em risco; execução actual: 11.000 lugares."
+        },
+        {
+          "data": "2025-10-02",
+          "tipo": "Revisão Intercalar",
+          "descricao": "Suspensão temporária das candidaturas a novos equipamentos de infância durante o período de transição governamental. Renegociação dos critérios do subsídio com os partidos da nova coligação.",
+          "justificacao": "Transição política com impacto direto na continuidade das políticas de natalidade.",
+          "impacto": "Paragem de 3 meses na execução do programa."
+        },
+        {
+          "data": "2025-04-15",
+          "tipo": "Criação da Medida",
+          "descricao": "Aprovação no quadro do Krajowy Plan Odbudowy. Objetivo: inverter a tendência de declínio demográfico através da criação de 50.000 novos lugares em creche, reforço do subsídio de natalidade e apoio à conciliação trabalho-família até 2026.",
+          "justificacao": "",
+          "impacto": ""
+        }
+      ]
+    }
+]

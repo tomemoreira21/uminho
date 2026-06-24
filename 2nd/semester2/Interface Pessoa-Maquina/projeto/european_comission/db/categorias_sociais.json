@@ -1,0 +1,83 @@
+[
+  {
+    "paisId": "portugal",
+    "categoriasSociais": [
+      { "nome": "Educação e Cuidados Infantis",    "reformas": 3, "investimentos": 4 },
+      { "nome": "Emprego e Habilidades",            "reformas": 1, "investimentos": 2 },
+      { "nome": "Saúde e Cuidados de Longo Prazo", "reformas": 4, "investimentos": 3 },
+      { "nome": "Políticas Sociais",                "reformas": 2, "investimentos": 1 }
+    ]
+  },
+  {
+    "paisId": "espanha",
+    "categoriasSociais": [
+      { "nome": "Educação e Cuidados Infantis",    "reformas": 4, "investimentos": 5 },
+      { "nome": "Emprego e Habilidades",            "reformas": 3, "investimentos": 4 },
+      { "nome": "Saúde e Cuidados de Longo Prazo", "reformas": 2, "investimentos": 3 },
+      { "nome": "Políticas Sociais",                "reformas": 3, "investimentos": 2 }
+    ]
+  },
+  {
+    "paisId": "italia",
+    "categoriasSociais": [
+      { "nome": "Educação e Cuidados Infantis",    "reformas": 5, "investimentos": 6 },
+      { "nome": "Emprego e Habilidades",            "reformas": 2, "investimentos": 3 },
+      { "nome": "Saúde e Cuidados de Longo Prazo", "reformas": 6, "investimentos": 4 },
+      { "nome": "Políticas Sociais",                "reformas": 3, "investimentos": 2 }
+    ]
+  },
+  {
+    "paisId": "franca",
+    "categoriasSociais": [
+      { "nome": "Educação e Cuidados Infantis",    "reformas": 4, "investimentos": 3 },
+      { "nome": "Emprego e Habilidades",            "reformas": 5, "investimentos": 4 },
+      { "nome": "Saúde e Cuidados de Longo Prazo", "reformas": 3, "investimentos": 5 },
+      { "nome": "Políticas Sociais",                "reformas": 2, "investimentos": 3 }
+    ]
+  },
+  {
+    "paisId": "alemanha",
+    "categoriasSociais": [
+      { "nome": "Educação e Cuidados Infantis",    "reformas": 2, "investimentos": 3 },
+      { "nome": "Emprego e Habilidades",            "reformas": 4, "investimentos": 2 },
+      { "nome": "Saúde e Cuidados de Longo Prazo", "reformas": 3, "investimentos": 4 },
+      { "nome": "Políticas Sociais",                "reformas": 1, "investimentos": 2 }
+    ]
+  },
+  {
+    "paisId": "polonia",
+    "categoriasSociais": [
+      { "nome": "Educação e Cuidados Infantis",    "reformas": 3, "investimentos": 5 },
+      { "nome": "Emprego e Habilidades",            "reformas": 2, "investimentos": 3 },
+      { "nome": "Saúde e Cuidados de Longo Prazo", "reformas": 4, "investimentos": 3 },
+      { "nome": "Políticas Sociais",                "reformas": 5, "investimentos": 4 }
+    ]
+  },
+  {
+    "paisId": "grecia",
+    "categoriasSociais": [
+      { "nome": "Educação e Cuidados Infantis",    "reformas": 3, "investimentos": 4 },
+      { "nome": "Emprego e Habilidades",            "reformas": 4, "investimentos": 3 },
+      { "nome": "Saúde e Cuidados de Longo Prazo", "reformas": 5, "investimentos": 6 },
+      { "nome": "Políticas Sociais",                "reformas": 2, "investimentos": 3 }
+    ]
+  },
+  {
+    "paisId": "romania",
+    "categoriasSociais": [
+      { "nome": "Educação e Cuidados Infantis",    "reformas": 4, "investimentos": 6 },
+      { "nome": "Emprego e Habilidades",            "reformas": 3, "investimentos": 4 },
+      { "nome": "Saúde e Cuidados de Longo Prazo", "reformas": 5, "investimentos": 5 },
+      { "nome": "Políticas Sociais",                "reformas": 3, "investimentos": 3 }
+    ]
+  },
+  {
+    "paisId": "croacia",
+    "categoriasSociais": [
+      { "nome": "Educação e Cuidados Infantis",    "reformas": 2, "investimentos": 3 },
+      { "nome": "Emprego e Habilidades",            "reformas": 2, "investimentos": 2 },
+      { "nome": "Saúde e Cuidados de Longo Prazo", "reformas": 3, "investimentos": 4 },
+      { "nome": "Políticas Sociais",                "reformas": 2, "investimentos": 2 }
+    ]
+  }
+]

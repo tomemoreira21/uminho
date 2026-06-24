@@ -1,0 +1,110 @@
+[
+  {
+    "id": "PT", "paisId": "portugal", "nome": "Portugal", "bandeira": "🇵🇹", "populacaoMilhoes": 10.3,
+    "subsidiosBilhoes": 16.3, "emprestimosBilhoes": 5.6,
+    "pilares": {
+      "transicao-verde":       { "sub": 6.1,  "emp": 2.1 },
+      "transformacao-digital":     { "sub": 3.8,  "emp": 1.4 },
+      "crescimento": { "sub": 7.8,  "emp": 2.9 },
+      "coesao":      { "sub": 2.9,  "emp": 1.1 },
+      "saude":       { "sub": 1.9,  "emp": 0.7 },
+      "politicas":     { "sub": 1.4,  "emp": 0.5 }
+    }
+  },
+  {
+    "id": "ES", "paisId": "espanha", "nome": "Espanha", "bandeira": "🇪🇸", "populacaoMilhoes": 47.4,
+    "subsidiosBilhoes": 69.5, "emprestimosBilhoes": 83.0,
+    "pilares": {
+      "transicao-verde":       { "sub": 29.2, "emp": 34.9 },
+      "transformacao-digital":     { "sub": 19.8, "emp": 23.7 },
+      "crescimento": { "sub": 31.3, "emp": 37.4 },
+      "coesao":      { "sub": 13.9, "emp": 16.6 },
+      "saude":       { "sub": 9.7,  "emp": 11.6 },
+      "politicas":     { "sub": 6.9,  "emp": 8.3  }
+    }
+  },
+  {
+    "id": "IT", "paisId": "italia", "nome": "Itália", "bandeira": "🇮🇹", "populacaoMilhoes": 59.6,
+    "subsidiosBilhoes": 68.9, "emprestimosBilhoes": 122.6,
+    "pilares": {
+      "transicao-verde":       { "sub": 37.9, "emp": 67.4 },
+      "transformacao-digital":     { "sub": 17.2, "emp": 30.7 },
+      "crescimento": { "sub": 33.1, "emp": 58.8 },
+      "coesao":      { "sub": 13.8, "emp": 24.5 },
+      "saude":       { "sub": 10.3, "emp": 18.4 },
+      "politicas":     { "sub": 6.2,  "emp": 11.0 }
+    }
+  },
+  {
+    "id": "FR", "paisId": "franca", "nome": "França", "bandeira": "🇫🇷", "populacaoMilhoes": 67.4,
+    "subsidiosBilhoes": 39.4, "emprestimosBilhoes": 0,
+    "pilares": {
+      "transicao-verde":       { "sub": 18.1, "emp": 0 },
+      "transformacao-digital":     { "sub": 8.7,  "emp": 0 },
+      "crescimento": { "sub": 15.0, "emp": 0 },
+      "coesao":      { "sub": 7.1,  "emp": 0 },
+      "saude":       { "sub": 4.5,  "emp": 0 },
+      "politicas":     { "sub": 3.0,  "emp": 0 }
+    }
+  },
+  {
+    "id": "DE", "paisId": "alemanha", "nome": "Alemanha", "bandeira": "🇩🇪", "populacaoMilhoes": 83.2,
+    "subsidiosBilhoes": 25.6, "emprestimosBilhoes": 0,
+    "pilares": {
+      "transicao-verde":       { "sub": 15.9, "emp": 0 },
+      "transformacao-digital":     { "sub": 6.1,  "emp": 0 },
+      "crescimento": { "sub": 9.2,  "emp": 0 },
+      "coesao":      { "sub": 3.1,  "emp": 0 },
+      "saude":       { "sub": 2.3,  "emp": 0 },
+      "politicas":     { "sub": 1.5,  "emp": 0 }
+    }
+  },
+  {
+    "id": "PL", "paisId": "polonia", "nome": "Polónia", "bandeira": "🇵🇱", "populacaoMilhoes": 37.9,
+    "subsidiosBilhoes": 23.9, "emprestimosBilhoes": 11.5,
+    "pilares": {
+      "transicao-verde":       { "sub": 10.3, "emp": 4.9 },
+      "transformacao-digital":     { "sub": 5.0,  "emp": 2.4 },
+      "crescimento": { "sub": 8.4,  "emp": 4.0 },
+      "coesao":      { "sub": 6.0,  "emp": 2.9 },
+      "saude":       { "sub": 3.1,  "emp": 1.5 },
+      "politicas":     { "sub": 1.2,  "emp": 0.6 }
+    }
+  },
+  {
+    "id": "GR", "paisId": "grecia", "nome": "Grécia", "bandeira": "🇬🇷", "populacaoMilhoes": 10.7,
+    "subsidiosBilhoes": 17.8, "emprestimosBilhoes": 12.5,
+    "pilares": {
+      "transicao-verde":       { "sub": 6.6,  "emp": 4.6 },
+      "transformacao-digital":     { "sub": 4.1,  "emp": 2.9 },
+      "crescimento": { "sub": 7.5,  "emp": 5.3 },
+      "coesao":      { "sub": 5.2,  "emp": 3.6 },
+      "saude":       { "sub": 2.8,  "emp": 2.0 },
+      "politicas":     { "sub": 1.6,  "emp": 1.1 }
+    }
+  },
+  {
+    "id": "RO", "paisId": "romania", "nome": "Roménia", "bandeira": "🇷🇴", "populacaoMilhoes": 19.2,
+    "subsidiosBilhoes": 28.5, "emprestimosBilhoes": 14.8,
+    "pilares": {
+      "transicao-verde":       { "sub": 11.7, "emp": 6.1 },
+      "transformacao-digital":     { "sub": 5.7,  "emp": 3.0 },
+      "crescimento": { "sub": 9.4,  "emp": 4.9 },
+      "coesao":      { "sub": 8.8,  "emp": 4.6 },
+      "saude":       { "sub": 5.1,  "emp": 2.7 },
+      "politicas":     { "sub": 2.0,  "emp": 1.0 }
+    }
+  },
+  {
+    "id": "HR", "paisId": "croacia", "nome": "Croácia", "bandeira": "🇭🇷", "populacaoMilhoes": 3.9,
+    "subsidiosBilhoes": 6.3, "emprestimosBilhoes": 3.6,
+    "pilares": {
+      "transicao-verde":       { "sub": 2.8,  "emp": 1.6 },
+      "transformacao-digital":     { "sub": 1.3,  "emp": 0.7 },
+      "crescimento": { "sub": 2.5,  "emp": 1.4 },
+      "coesao":      { "sub": 1.7,  "emp": 1.0 },
+      "saude":       { "sub": 0.9,  "emp": 0.5 },
+      "politicas":     { "sub": 0.5,  "emp": 0.3 }
+    }
+  }
+]

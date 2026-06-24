@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "titulo": "Transição Verde",
+    "descricao": "Transição ecológica através de investimentos em energias renováveis, eficiência energética, entre outras.",
+    "alocacao": "37.5%",
+    "totalInvestido": "€256B",
+    "marcos": 713,
+    "medidas": 1280,
+    "tituloGrafico1": "Acompanhamento climático: Repartição das despesas para objetivos climáticos por área de política",
+    "tituloGrafico2": "Pilar de transição verde: Repartição das despesas de apoio à transição verde por área de política"
+  },
+  {
+    "id": 2,
+    "titulo": "Transformação Digital",
+    "descricao": "Digitalização da economia e sociedade através de infraestruturas digitais, competências, entre outras.",
+    "alocacao": "20.1%",
+    "totalInvestido": "€137B",
+    "marcos": 420,
+    "medidas": 890,
+    "tituloGrafico1": "Acompanhamento digital: Repartição das despesas para objetivos digitais por área de política",
+    "tituloGrafico2": "Pilar de transformação digital: Repartição das despesas de apoio à digitalização por área de política"
+  },
+  {
+    "id": 3,
+    "titulo": "Crescimento inteligente, sustentável e inclusivo",
+    "descricao": "Crescimento inteligente e inclusivo através de coesão económica, criação de emprego, produtividade, entre outras.",
+    "alocacao": "14.8%",
+    "totalInvestido": "€101B",
+    "marcos": 380,
+    "medidas": 760,
+    "tituloGrafico1": "Acompanhamento económico: Repartição das despesas para objetivos de crescimento por área de política",
+    "tituloGrafico2": "Pilar de crescimento: Repartição das despesas de apoio ao crescimento por área de política"
+  },
+  {
+    "id": 4,
+    "titulo": "Coesão social e territorial",
+    "descricao": "Coesão social e territorial através da redução de desigualdades regionais, inclusão de grupos vulneráveis, entre outros.",
+    "alocacao": "12.4%",
+    "totalInvestido": "€85B",
+    "marcos": 290,
+    "medidas": 610,
+    "tituloGrafico1": "Acompanhamento social: Repartição das despesas para objetivos de coesão por área de política",
+    "tituloGrafico2": "Pilar de coesão: Repartição das despesas de apoio à coesão social e territorial por área de política"
+  },
+  {
+    "id": 5,
+    "titulo": "Saúde e resiliência económica, social e institucional",
+    "descricao": "Resiliência dos sistemas de saúde, económicos, sociais e institucionais. Preparação para crises, capacidade hospitalar, entre outras.",
+    "alocacao": "10.2%",
+    "totalInvestido": "€70B",
+    "marcos": 210,
+    "medidas": 445,
+    "tituloGrafico1": "Acompanhamento de saúde: Repartição das despesas para objetivos de saúde por área de política",
+    "tituloGrafico2": "Pilar de saúde: Repartição das despesas de apoio à resiliência dos sistemas de saúde por área de política"
+  },
+  {
+    "id": 6,
+    "titulo": "Políticas para a próxima geração",
+    "descricao": "Políticas para crianças, jovens e gerações futuras através de educação de qualidade, competências, entre outras.",
+    "alocacao": "5.0%",
+    "totalInvestido": "€34B",
+    "marcos": 145,
+    "medidas": 310,
+    "tituloGrafico1": "Acompanhamento geracional: Repartição das despesas para objetivos da próxima geração por área de política",
+    "tituloGrafico2": "Pilar da próxima geração: Repartição das despesas de apoio a crianças e jovens por área de política"
+  }
+]

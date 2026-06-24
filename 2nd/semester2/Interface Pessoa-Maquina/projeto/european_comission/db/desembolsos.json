@@ -1,0 +1,65 @@
+[
+  {
+    "paisId": "portugal",
+    "desembolsos": {
+      "pctSubsidios": 64, "subsidiosLabel": "10,41 mil milhões",
+      "pctEmprestimos": 61, "emprestimosLabel": "3,39 mil milhões"
+    }
+  },
+  {
+    "paisId": "espanha",
+    "desembolsos": {
+      "pctSubsidios": 58, "subsidiosLabel": "40,33 mil milhões",
+      "pctEmprestimos": 45, "emprestimosLabel": "37,35 mil milhões"
+    }
+  },
+  {
+    "paisId": "italia",
+    "desembolsos": {
+      "pctSubsidios": 52, "subsidiosLabel": "35,82 mil milhões",
+      "pctEmprestimos": 38, "emprestimosLabel": "46,59 mil milhões"
+    }
+  },
+  {
+    "paisId": "franca",
+    "desembolsos": {
+      "pctSubsidios": 60, "subsidiosLabel": "23,64 mil milhões",
+      "pctEmprestimos": 40, "emprestimosLabel": "3,39 mil milhões"
+    }
+  },
+  {
+    "paisId": "alemanha",
+    "desembolsos": {
+      "pctSubsidios": 72, "subsidiosLabel": "18,43 mil milhões",
+      "pctEmprestimos": 30, "emprestimosLabel": "5,20 mil milhões"
+    }
+  },
+  {
+    "paisId": "polonia",
+    "desembolsos": {
+      "pctSubsidios": 44, "subsidiosLabel": "10,52 mil milhões",
+      "pctEmprestimos": 29, "emprestimosLabel": "3,34 mil milhões"
+    }
+  },
+  {
+    "paisId": "grecia",
+    "desembolsos": {
+      "pctSubsidios": 49, "subsidiosLabel": "8,72 mil milhões",
+      "pctEmprestimos": 36, "emprestimosLabel": "4,50 mil milhões"
+    }
+  },
+  {
+    "paisId": "romania",
+    "desembolsos": {
+      "pctSubsidios": 38, "subsidiosLabel": "10,83 mil milhões",
+      "pctEmprestimos": 22, "emprestimosLabel": "3,26 mil milhões"
+    }
+  },
+  {
+    "paisId": "croacia",
+    "desembolsos": {
+      "pctSubsidios": 51, "subsidiosLabel": "3,21 mil milhões",
+      "pctEmprestimos": 44, "emprestimosLabel": "1,58 mil milhões"
+    }
+  }
+]

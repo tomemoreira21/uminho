@@ -1,0 +1,19 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+gradle.properties
+
+# Ignore Gradle build output directory
+build
+.vscode/
+app/build
+app/bin
+
+# Ignore temp files Visual Paradigm
+*.lck
+*.lock
+*.tmp
+*.bak
+*.swp
+*.bak_*
+*.vpp.bak*
+*.vpp.tmp*

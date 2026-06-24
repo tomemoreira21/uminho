@@ -1,0 +1,32 @@
+{
+  "name": "european_comission",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "build:db": "curl -s https://raw.githubusercontent.com/UMinho-ENGINF-IPM/build_jsondb/main/build_jsondb.py | python3 - db",
+    "api": "npx json-server --watch db.json --port 3000"
+  },
+  "dependencies": {
+    "@primevue/themes": "^4.5.4",
+    "@svgdotjs/svg.js": "^3.2.5",
+    "chart.js": "^4.5.1",
+    "file-saver": "^2.0.5",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^4.2.1",
+    "leaflet": "^1.9.4",
+    "pinia": "^3.0.4",
+    "primeicons": "^7.0.0",
+    "primevue": "^4.5.5",
+    "vue": "^3.5.30",
+    "vue-router": "^5.0.4",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.5",
+    "vite": "^8.0.1"
+  }
+}

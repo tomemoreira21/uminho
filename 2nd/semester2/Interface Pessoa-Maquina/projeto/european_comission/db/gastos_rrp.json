@@ -1,0 +1,112 @@
+[
+  {
+    "paisId": null,
+    "gastosRRP": [
+      { "pilarId": "transicao-verde",      "nome": "Transição Verde",   "valorPct": 50.76 },
+      { "pilarId": "transformacao-digital", "nome": "Transformação Digital", "valorPct": 24.41 },
+      { "pilarId": "crescimento",           "nome": "Crescimento Inteligente", "valorPct": 56.78 },
+      { "pilarId": "coesao",                 "nome": "Coesão Social e Territorial", "valorPct": 41.03 },
+      { "pilarId": "saude",                 "nome": "Saúde e Resiliência", "valorPct": 17.04 },
+      { "pilarId": "politicas",             "nome": "Políticas para a Próxima Geração", "valorPct": 9.99  }
+    ]
+  },
+  {
+    "paisId": "portugal",
+    "gastosRRP": [
+      { "pilarId": "transicao-verde",        "nome": "Transição Verde",                                       "valorPct": 59.5 },
+      { "pilarId": "transformacao-digital",  "nome": "Transformação Digital",                                  "valorPct": 33.3 },
+      { "pilarId": "crescimento",            "nome": "Crescimento Inteligente",                                "valorPct": 51.9 },
+      { "pilarId": "coesao",                 "nome": "Coesão Social e Territorial",                            "valorPct": 37.6 },
+      { "pilarId": "saude",                  "nome": "Saúde e Resiliência",                                    "valorPct": 8.9  },
+      { "pilarId": "politicas",              "nome": "Políticas para a Próxima Geração",                       "valorPct": 8.8  }
+    ]
+  },
+  {
+    "paisId": "espanha",
+    "gastosRRP": [
+      { "pilarId": "transicao-verde",        "nome": "Transição Verde",                                       "valorPct": 42.0 },
+      { "pilarId": "transformacao-digital",  "nome": "Transformação Digital",                                  "valorPct": 28.5 },
+      { "pilarId": "crescimento",            "nome": "Crescimento Inteligente",                                "valorPct": 45.0 },
+      { "pilarId": "coesao",                 "nome": "Coesão Social e Territorial",                            "valorPct": 30.0 },
+      { "pilarId": "saude",                  "nome": "Saúde e Resiliência",                                    "valorPct": 12.0 },
+      { "pilarId": "politicas",              "nome": "Políticas para a Próxima Geração",                       "valorPct": 10.0 }
+    ]
+  },
+  {
+    "paisId": "italia",
+    "gastosRRP": [
+      { "pilarId": "transicao-verde",        "nome": "Transição Verde",                                       "valorPct": 55.0 },
+      { "pilarId": "transformacao-digital",  "nome": "Transformação Digital",                                  "valorPct": 25.0 },
+      { "pilarId": "crescimento",            "nome": "Crescimento Inteligente",                                "valorPct": 48.0 },
+      { "pilarId": "coesao",                 "nome": "Coesão Social e Territorial",                            "valorPct": 20.0 },
+      { "pilarId": "saude",                  "nome": "Saúde e Resiliência",                                    "valorPct": 15.0 },
+      { "pilarId": "politicas",              "nome": "Políticas para a Próxima Geração",                       "valorPct": 9.0  }
+    ]
+  },
+  {
+    "paisId": "franca",
+    "gastosRRP": [
+      { "pilarId": "transicao-verde",        "nome": "Transição Verde",                                       "valorPct": 46.0 },
+      { "pilarId": "transformacao-digital",  "nome": "Transformação Digital",                                  "valorPct": 22.0 },
+      { "pilarId": "crescimento",            "nome": "Crescimento Inteligente",                                "valorPct": 38.0 },
+      { "pilarId": "coesao",                 "nome": "Coesão Social e Territorial",                            "valorPct": 18.0 },
+      { "pilarId": "saude",                  "nome": "Saúde e Resiliência",                                    "valorPct": 11.5 },
+      { "pilarId": "politicas",              "nome": "Políticas para a Próxima Geração",                       "valorPct": 7.5  }
+    ]
+  },
+  {
+    "paisId": "alemanha",
+    "gastosRRP": [
+      { "pilarId": "transicao-verde",        "nome": "Transição Verde",                                       "valorPct": 62.0 },
+      { "pilarId": "transformacao-digital",  "nome": "Transformação Digital",                                  "valorPct": 24.0 },
+      { "pilarId": "crescimento",            "nome": "Crescimento Inteligente",                                "valorPct": 36.0 },
+      { "pilarId": "coesao",                 "nome": "Coesão Social e Territorial",                            "valorPct": 12.0 },
+      { "pilarId": "saude",                  "nome": "Saúde e Resiliência",                                    "valorPct": 9.0  },
+      { "pilarId": "politicas",              "nome": "Políticas para a Próxima Geração",                       "valorPct": 6.0  }
+    ]
+  },
+  {
+    "paisId": "polonia",
+    "gastosRRP": [
+      { "pilarId": "transicao-verde",        "nome": "Transição Verde",                                       "valorPct": 43.0 },
+      { "pilarId": "transformacao-digital",  "nome": "Transformação Digital",                                  "valorPct": 21.0 },
+      { "pilarId": "crescimento",            "nome": "Crescimento Inteligente",                                "valorPct": 35.0 },
+      { "pilarId": "coesao",                 "nome": "Coesão Social e Territorial",                            "valorPct": 25.0 },
+      { "pilarId": "saude",                  "nome": "Saúde e Resiliência",                                    "valorPct": 13.0 },
+      { "pilarId": "politicas",              "nome": "Políticas para a Próxima Geração",                       "valorPct": 5.0  }
+    ]
+  },
+  {
+    "paisId": "grecia",
+    "gastosRRP": [
+      { "pilarId": "transicao-verde",        "nome": "Transição Verde",                                       "valorPct": 37.0 },
+      { "pilarId": "transformacao-digital",  "nome": "Transformação Digital",                                  "valorPct": 23.0 },
+      { "pilarId": "crescimento",            "nome": "Crescimento Inteligente",                                "valorPct": 42.0 },
+      { "pilarId": "coesao",                 "nome": "Coesão Social e Territorial",                            "valorPct": 29.0 },
+      { "pilarId": "saude",                  "nome": "Saúde e Resiliência",                                    "valorPct": 16.0 },
+      { "pilarId": "politicas",              "nome": "Políticas para a Próxima Geração",                       "valorPct": 9.0  }
+    ]
+  },
+  {
+    "paisId": "romania",
+    "gastosRRP": [
+      { "pilarId": "transicao-verde",        "nome": "Transição Verde",                                       "valorPct": 41.0 },
+      { "pilarId": "transformacao-digital",  "nome": "Transformação Digital",                                  "valorPct": 20.0 },
+      { "pilarId": "crescimento",            "nome": "Crescimento Inteligente",                                "valorPct": 33.0 },
+      { "pilarId": "coesao",                 "nome": "Coesão Social e Territorial",                            "valorPct": 31.0 },
+      { "pilarId": "saude",                  "nome": "Saúde e Resiliência",                                    "valorPct": 18.0 },
+      { "pilarId": "politicas",              "nome": "Políticas para a Próxima Geração",                       "valorPct": 7.0  }
+    ]
+  },
+  {
+    "paisId": "croacia",
+    "gastosRRP": [
+      { "pilarId": "transicao-verde",        "nome": "Transição Verde",                                       "valorPct": 44.0 },
+      { "pilarId": "transformacao-digital",  "nome": "Transformação Digital",                                  "valorPct": 20.0 },
+      { "pilarId": "crescimento",            "nome": "Crescimento Inteligente",                                "valorPct": 39.0 },
+      { "pilarId": "coesao",                 "nome": "Coesão Social e Territorial",                            "valorPct": 27.0 },
+      { "pilarId": "saude",                  "nome": "Saúde e Resiliência",                                    "valorPct": 14.0 },
+      { "pilarId": "politicas",              "nome": "Políticas para a Próxima Geração",                       "valorPct": 8.0  }
+    ]
+  }
+]
