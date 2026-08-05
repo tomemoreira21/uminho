@@ -1,0 +1,9 @@
+# Ignore board files
+j1.txt
+j2.txt
+j3.txt
+j4.txt
+j5.txt
+
+# Ignore game state file 
+stackSave.txt
