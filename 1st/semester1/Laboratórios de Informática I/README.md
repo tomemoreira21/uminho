@@ -7,4 +7,4 @@ O projeto usa a biblioteca Gloss para a parte gráfica.
 
 ## 📷 Demo
 
-![Immutable Towers Gameplay](app/imagemPreview/game.png)
+![Immutable Towers Gameplay](projeto/app/imagemPreview/game.png)
