@@ -1,6 +1,3 @@
 # Ignore build artifacts
 
 dist-newstyle/
-
-# Ignore local preview images
-app/imagemPreview/
