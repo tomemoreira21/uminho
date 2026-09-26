@@ -179,7 +179,7 @@ Traffic can be generated through normal network activity or commands such as `pi
 .
 
 ├── packet_sniffer/     # Application source code
-├── relatorio/          # Project report
+├── relatorio.pdf       # Project report
 └── README.md           # Project documentation
 ```
 
