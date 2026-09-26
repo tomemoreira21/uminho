@@ -1,43 +1,132 @@
-# Laboratórios de Informática I
+<div align="center">
 
-## Executável
+# 🏰 Immutable Towers
 
-Pode compilar e executar o programa através dos comandos `build` e `run` do Cabal.
+A **tower defense game** developed in **Haskell** using functional programming principles.
+
+![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=for-the-badge\&logo=haskell\&logoColor=white)
+![Cabal](https://img.shields.io/badge/-Cabal-6E4A7E?style=for-the-badge\&logo=haskell\&logoColor=white)
+![HUnit](https://img.shields.io/badge/-HUnit-orange?style=for-the-badge)
+![Gloss](https://img.shields.io/badge/-Gloss-4B275F?style=for-the-badge\&logo=haskell\&logoColor=white)
+
+</div>
+
+## 🎮 About the Project
+
+**Immutable Towers** is a **tower defense game** developed in **Haskell**, a purely functional programming language.
+
+The player must strategically place towers to defend their base from incoming enemies. Enemies follow a predefined path towards the base, and the objective is to prevent them from reaching their destination.
+
+The game features a graphical interface developed using the **Gloss** library.
+
+## 📷 Demo
+
+<div align="center">
+  <img src="app/imagemPreview/game.png" alt="Immutable Towers Gameplay" width="600">
+</div>
+
+## 🕹️ Gameplay
+
+The main objective is to protect the base by strategically placing towers along the enemy's path.
+
+* 🏰 **Place towers** to defend your base.
+* 👾 **Enemies** follow a predefined path towards the base.
+* 🎯 **Attack enemies** before they reach the end of the path.
+* ❤️ **Protect the base** from incoming enemies.
+* 🧠 **Use strategy** to determine the best positions for your towers.
+
+## 🛠️ Technologies
+
+* 🟣 **Haskell** — Functional programming language used to develop the game.
+* 📦 **Cabal** — Build system and package management.
+* 🎨 **Gloss** — Graphics and game interface.
+* 🧪 **HUnit** — Unit testing framework.
+* 📚 **Haddock** — Automatic documentation generation.
+* 🔍 **Doctest** — Testing examples included in the documentation.
+
+## ⚙️ Build & Run
+
+The project uses **Cabal** to build and run the game.
+
+### ▶️ Run the Game
 
 ```bash
 cabal run --verbose=0
 ```
 
-## Interpretador
+### 🧑‍💻 Open the Haskell Interpreter
 
-Para abrir o interpretador do Haskell (GHCi) com o projeto carregado, utilize o comando `repl` do Cabal
+To open **GHCi** with the project loaded, use:
 
 ```bash
 cabal repl
 ```
 
-## Testes
+## 🧪 Testing
 
-O projecto utiliza a biblioteca [HUnit](https://hackage.haskell.org/package/HUnit) para fazer testes unitários.
+The project uses **HUnit** for unit testing.
 
-Execute os testes com o comando `test` do Cabal e utilize a flag `--enable-coverage` para gerar um relatório de cobertura de testes.
+### Run Unit Tests
+
+```bash
+cabal test
+```
+
+To generate a test coverage report, use:
 
 ```bash
 cabal test --enable-coverage
 ```
 
-Execute os exemplos da documentação como testes com a biblioteca
-[`doctest`](https://hackage.haskell.org/package/doctest). Para instalar o
-executavel utilize o comando `cabal install doctest`.
+### 🔍 Run Doctests
+
+Examples included in the documentation can also be executed as tests using **Doctest**.
+
+If Doctest is not installed, it can be installed with:
+
+```bash
+cabal install doctest
+```
+
+Then run the documentation examples with:
 
 ```bash
 cabal repl --build-depends=QuickCheck,doctest --with-ghc=doctest --verbose=0
 ```
 
-## Documentação
+## 📚 Documentation
 
-A documentação do projeto pode ser gerada recorrendo ao [Haddock](https://haskell-haddock.readthedocs.io/).
+Project documentation can be generated using **Haddock**:
 
 ```bash
 cabal haddock
 ```
+
+The generated documentation provides information about the project's modules, functions, and types.
+
+## 📁 Project Structure
+
+```text
+projeto/
+├── app/
+│   └── imagemPreview/
+│       └── game.png       # Gameplay preview
+├── lib/                   # Library and game logic
+├── test/                  # Unit tests
+└── immutable-towers.cabal # Cabal project configuration
+```
+
+## 🎯 Project Goals
+
+This project was developed as an opportunity to apply **functional programming concepts** in Haskell while building an interactive game.
+
+The main goals include:
+
+* 🧩 Applying functional programming principles.
+* 🏰 Developing a functional tower defense game.
+* 🎨 Creating a graphical interface using Gloss.
+* 🧪 Implementing automated unit tests with HUnit.
+* 📚 Providing automatically generated project documentation.
+* 📦 Managing the project and its dependencies with Cabal.
+
+---

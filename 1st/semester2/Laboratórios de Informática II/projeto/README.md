@@ -1,67 +1,106 @@
-# Board Game Solver
+<div align="center">
 
-Projeto desenvolvido em **C**.
-É um jogo de tabuleiro executado na linha de comandos, onde o objetivo é resolver um puzzle respeitando um conjunto de regras.
-O jogador pode marcar casas, riscar posições, verificar violações das regras, desfazer jogadas, pedir ajuda ou resolver automaticamente o tabuleiro.
+# 🧩 Board Game Solver
 
-## 🎮 Comandos disponíveis
+A command-line board game puzzle solver written in **C**.
 
-* `g <nome do tabuleiro>` – Gravar o tabuleiro atual.
-* `l <nome do tabuleiro>` – Ler um tabuleiro.
-* `b <coordenada>` – Colocar a letra em maiúsculas.
-* `r <coordenada>` – Colocar um `#` na posição indicada.
-* `v` – Mostrar as violações das regras do jogo.
-* `d` – Desfazer o último comando.
-* `a` – Dar uma ajuda ao jogador.
-* `A` – Dar a melhor ajuda possível.
-* `R` – Resolver automaticamente o tabuleiro.
-* `s` – Sair do jogo.
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=white)
+![GCC](https://img.shields.io/badge/-GCC-4EAA25?style=for-the-badge\&logo=gnu\&logoColor=white)
+![Makefile](https://img.shields.io/badge/-Makefile-427819?style=for-the-badge\&logo=gnu\&logoColor=white)
+![CUnit](https://img.shields.io/badge/-CUnit-orange?style=for-the-badge)
 
-## 📋 Regras do jogo
+</div>
 
-1. Cada casa contém um símbolo (inicialmente uma letra minúscula).
-2. Em cada linha e coluna pode existir apenas uma ocorrência de cada símbolo marcada em maiúsculas.
-3. As restantes ocorrências desse símbolo devem ser substituídas por `#`.
-4. Se uma casa estiver marcada com `#`, todas as casas ortogonalmente adjacentes (cima, baixo, esquerda e direita) devem permanecer ativas.
-5. Todas as casas ativas devem formar um único caminho ortogonal, ou seja, devem estar todas ligadas.
+## 📖 About the Project
 
-## ⚙️ Compilação
+**Board Game Solver** is a command-line board game developed in **C**, where the goal is to solve a puzzle while following a specific set of rules.
 
-O projeto utiliza um **Makefile** para automatizar a compilação.
+The player can mark cells, cross out positions, check for rule violations, undo moves, request hints, or automatically solve the board.
 
-### Compilar o jogo
+## 🎮 Available Commands
+
+| Command          | Description                                      |
+| ---------------- | ------------------------------------------------ |
+| `g <board_name>` | Save the current board.                          |
+| `l <board_name>` | Load a board.                                    |
+| `b <coordinate>` | Mark the selected cell with an uppercase letter. |
+| `r <coordinate>` | Place a `#` in the selected position.            |
+| `v`              | Display rule violations.                         |
+| `d`              | Undo the last command.                           |
+| `a`              | Give the player a hint.                          |
+| `A`              | Give the best possible hint.                     |
+| `R`              | Automatically solve the board.                   |
+| `s`              | Exit the game.                                   |
+
+## 📋 Game Rules
+
+1. Each cell contains a symbol, initially represented by a lowercase letter.
+
+2. Each row and column can contain **only one occurrence of each symbol** marked in uppercase.
+
+3. All remaining occurrences of that symbol must be replaced with `#`.
+
+4. If a cell is marked with `#`, all of its orthogonally adjacent cells — up, down, left, and right — must remain active.
+
+5. All active cells must form a **single connected orthogonal path**, meaning that every active cell must be reachable from every other active cell.
+
+## ⚙️ Compilation
+
+The project uses a **Makefile** to automate compilation.
+
+### 🔨 Compile the Game
 
 ```bash
 make jogo
 ```
 
-### Executar o jogo
+### ▶️ Run the Game
 
 ```bash
 ./jogo
 ```
 
-### Compilar os testes
+### 🧪 Compile the Tests
 
 ```bash
 make test
 ```
 
-### Executar os testes
+### ✅ Run the Tests
 
 ```bash
 make testar
 ```
 
-### Limpar os ficheiros gerados
+### 🧹 Clean Generated Files
 
 ```bash
 make clean
 ```
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
-* Linguagem **C**
-* **GCC**
-* **Makefile**
-* Interface de linha de comandos (CLI)
+* 🇨 — **C**
+* ⚙️ — **GCC**
+* 🔨 — **Makefile**
+* 💻 — **Command-Line Interface (CLI)**
+* 🧪 — **HUnit**
+
+## 📁 Project Structure
+
+```text
+.
+├── src/          # Source code
+├── tests/        # Test files
+├── Makefile      # Build automation
+└── README.md     # Project documentation
+```
+
+## 🎯 Objective
+
+The main objective of the project is to provide a solver capable of handling the board's constraints, detecting invalid states, assisting the player with hints, and automatically finding a solution when requested.
+
+---
+
+<div align="center">
+
