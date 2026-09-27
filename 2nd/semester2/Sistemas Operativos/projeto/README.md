@@ -1,69 +1,117 @@
-# SO_Pratico
+<div align="center">
 
-O projeto implementa um controlador de execução de processos e utilitários (runners) em C, com comunicação por FIFO e suporte a políticas de escalonamento.
+# 🧵 Multi-Runner Environment Orchestrator
 
-## Stack
-- Linguagem: C (principal)
-- Ferramentas: Make (Makefile)
-- Testes: scripts Shell em tests/
+A command scheduling and execution system developed in **C**, using **FIFOs**, **pipes** and process management.
 
-## O que faz
-- Controlador (controller): recebe pedidos de submissão, lista de estado, notificações de fim e pedido de encerramento via mensagem (FIFO).
-- Runner(s): executam os comandos recebidos pelo controlador (comunicação via pipes/FIFO).
-- Suporte a execução paralela limitada (número máximo de processos em simultâneo) e a diferentes políticas de escalonamento (passadas como argumento ao controlador).
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Makefile](https://img.shields.io/badge/Makefile-000000?style=for-the-badge\&logo=gnu\&logoColor=white)
 
-## Organização do repositório
-```
-Makefile                 # build rules
-.gitignore
-include/                 # headers: tipos e definições (FIFO_PATH, controllers, pipes, etc.)
-src/                     # código-fonte em C (controller, runner, parser, process, common, ...)
-tests/                   # scripts de teste e benchmark (run_tests.sh, analyze.sh, benchmark.sh, ...)
-relatorio/               # relatório em PDF do trabalho
-```
+</div>
 
-Como isto se integra: o binário do controlador coordena os pedidos recebidos por um FIFO global (macro FIFO_PATH nos headers). Os runners recebem notificações do controlador e executam os comandos. O Makefile compila os objetos e gera os binários (bin/controller, bin/runner).
+## 📖 About the Project
 
-## Como compilar
-No directório do repositório:
-```sh
+This project implements a process execution controller and a set of runners in **C**.
+
+The **controller** receives execution requests through a **FIFO**, manages the submitted processes and applies different scheduling policies. The **runners** communicate with the controller and execute the requested commands.
+
+The system also supports limited parallel execution, allowing a configurable number of processes to run simultaneously.
+
+## ✨ Features
+
+* ⚙️ Process execution through dedicated runners
+* 📡 Communication using FIFOs and pipes
+* 🔄 Multiple scheduling policies
+* 🚀 Configurable parallel process execution
+* 📋 Process status monitoring
+* 🛑 Graceful controller shutdown
+* 🧪 Automated testing and benchmarking
+
+## ⚙️ Compilation
+
+Build the complete project:
+
+```bash
 make
 ```
-(Isto usa o Makefile incluído; gera os binários no diretório `bin/` conforme as regras do Makefile.)
 
-Para compilar apenas o controlador ou apenas o runner:
-```sh
+Build only the controller:
+
+```bash
 make controller
+```
+
+Build only the runner:
+
+```bash
 make runner
 ```
 
-## Como executar (exemplos)
-1. Iniciar o controlador (ex.: 4 processos em paralelo, política "FCFS"):
-```sh
+Clean generated files:
+
+```bash
+make clean
+```
+
+## 🖥️ Usage
+
+### Start the Controller
+
+```bash
 ./bin/controller <max_parallel> <scheduling_policy>
-# Exemplo:
+```
+
+Example:
+
+```bash
 ./bin/controller 4 FCFS
 ```
-Observação: o primeiro argumento é o número máximo de processos em paralelo; o segundo é a política de escalonamento (o nome exacto das políticas suportadas está definido no código / nos headers).
 
-2. Iniciar um runner (exemplo):
-```sh
+The first argument defines the maximum number of processes that can run simultaneously, while the second selects the scheduling policy.
+
+### Start a Runner
+
+```bash
 ./bin/runner
 ```
-(Os detalhes exatos de argumentos do runner e do formato de mensagens estão nas implementações em `src/` e nos headers em `include/`.)
 
-3. Para ver exemplos de uso e jornadas de teste, executar os scripts:
-```sh
+Runners communicate with the controller and execute the commands assigned to them.
+
+## 🧪 Testing
+
+The `tests/` directory contains scripts for testing and evaluating the system.
+
+```bash
 bash tests/run_tests.sh
 bash tests/benchmark.sh
 bash tests/analyze.sh
 ```
 
-## Testes
-Existem vários scripts em `tests/`:
-- `run_tests.sh` — script principal de execução de testes.
-- `benchmark.sh` — testes de desempenho.
-- `analyze.sh` — análise/coleção de resultados.
-- `test_consc.sh`, `test_fairness.sh` — testes específicos (concorrência, fairness, ...).
+Additional tests are available for concurrency and scheduling behaviour.
 
-Executa-os em ambiente controlado (p. ex. shell em Linux) e verifica a saída/relatórios gerados.
+## 🛠️ Technologies
+
+* C
+* Linux
+* FIFOs
+* Pipes
+* Process Management
+* Makefile
+* Shell Scripts
+
+## 📁 Project Structure
+
+```text
+.
+├── include/       # Header files and shared definitions
+├── src/           # C source code
+├── tests/         # Test and benchmark scripts
+├── relatorio/     # Project report
+├── Makefile
+└── README.md
+```
+
+## 🎯 Objective
+
+The main objective of the project is to apply **Operating Systems** concepts such as process management, inter-process communication, concurrency and scheduling in a practical C application.
